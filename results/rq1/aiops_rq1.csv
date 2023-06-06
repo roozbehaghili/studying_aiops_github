@@ -1,0 +1,120 @@
+Repos,id,stars,forks,commits,contributors,releases,branches,open_pulls,closed_pulls,open_issues,closed_issues,size,archived,created_at,updated_at,age,language,,pull_requests,issues
+Tencent/Metis,152712376,1501,471,74,4,1,6,5,16,31,68,5039,FALSE,10/12/2018 0:00,4/19/2023 0:00,54,Python,,21,99
+logpai/loglizer,58811148,1070,396,121,5,0,0,5,8,19,64,11102,FALSE,5/14/2016 0:00,4/19/2023 0:00,83,Jupyter Notebook,,13,83
+whylabs/whylogs,287642401,2184,95,646,37,106,114,9,862,21,321,111076,FALSE,8/14/2020 0:00,4/20/2023 0:00,32,Jupyter Notebook,,871,342
+centreon/centreon,496143272,30,14,"31,140",66,0,164,64,"1,250",33,20,315505,FALSE,5/25/2022 0:00,4/7/2023 0:00,11,PHP,,1314,53
+jixinpu/aiopstools,160285839,329,126,27,2,0,0,2,1,9,6,139,FALSE,12/4/2018 0:00,4/19/2023 0:00,52,Python,,3,15
+donglee-afar/logdeep,246569386,301,92,18,0,0,0,0,0,30,8,6293,FALSE,3/11/2020 0:00,4/3/2023 0:00,37,Python,,0,38
+AICoE/log-anomaly-detector,148634371,279,122,465,13,0,13,2,211,0,178,19510,FALSE,9/13/2018 0:00,4/19/2023 0:00,55,Jupyter Notebook,,213,178
+whylabs/whylogs-java,288033225,175,9,214,8,1,15,1,42,1,3,6238,TRUE,8/16/2020 0:00,3/21/2023 0:00,31,Java,,43,4
+logpai/Log3C,142442484,163,43,18,2,0,2,1,0,1,8,22,FALSE,7/26/2018 0:00,3/15/2023 0:00,56,Python,,1,9
+keikoproj/active-monitor,201529303,149,31,89,12,8,13,6,78,6,54,434,FALSE,8/9/2019 0:00,4/4/2023 0:00,44,Go,,84,60
+rancher/opni,353100280,252,43,"2,802",11,68,58,21,647,99,529,83874,FALSE,3/30/2021 0:00,4/17/2023 0:00,25,Go,,668,628
+Impetus/jumbune,20530482,69,32,333,15,5,100,65,121,2,0,33203,FALSE,6/5/2014 0:00,3/18/2022 0:00,93,Java,,186,2
+kylechenoO/AIOPS_PLATFORM,174058957,68,36,204,0,0,11,10,7,0,0,12752,FALSE,3/6/2019 0:00,9/8/2022 0:00,42,Python,,17,0
+OS-ABC/AIOPS-Anomaly-Detection,345299329,47,15,54,2,0,0,0,5,0,0,64978,FALSE,3/7/2021 0:00,2/10/2023 0:00,23,Python,,5,0
+OS-ABC/AIOps-Event-Graph-WebData,345320486,40,20,10,2,0,0,0,2,0,0,237147,FALSE,3/7/2021 0:00,2/28/2023 0:00,23,HTML,,2,0
+OS-ABC/AIOps-Knowledge-Graph-WebData,345320364,38,15,13,2,0,0,0,3,0,0,2015,FALSE,3/7/2021 0:00,12/8/2022 0:00,21,Java,,3,0
+OS-ABC/AIOps-Fault-Injection,345299736,35,15,7,2,0,0,0,2,0,0,99,FALSE,3/7/2021 0:00,10/6/2021 0:00,7,Java,,2,0
+CloudWise-OpenSource/GAIA-DataSet,397983735,83,24,21,2,2,0,0,0,5,6,7809649,FALSE,8/19/2021 0:00,4/17/2023 0:00,20,,,0,11
+chengqianghuang/exp-anomaly-detector-AIOps,140487488,37,27,9,0,0,0,0,0,2,0,2232,FALSE,7/10/2018 0:00,2/18/2023 0:00,55,Jupyter Notebook,,0,2
+NetManAIOps/KPI-Anomaly-Detection,238914477,57,16,8,3,0,0,0,0,3,0,51067,FALSE,2/7/2020 0:00,4/13/2023 0:00,38,,,0,3
+afritzler/oopsie,226591966,28,1,215,2,30,3,2,196,2,7,8989,FALSE,12/8/2019 0:00,3/28/2023 0:00,39,Go,,198,9
+shimo85/2019AIOps_ai,165321356,25,14,40,0,0,0,0,0,2,0,444553,FALSE,1/11/2019 0:00,4/17/2023 0:00,51,Python,,0,2
+vipsql/AIOPS,205405830,24,20,12,0,0,0,0,0,0,0,1219,FALSE,8/30/2019 0:00,12/5/2022 0:00,40,Java,,0,0
+NetManAIOps/AIOps-Challenge-2020-Data,304488815,47,11,16,2,0,0,0,2,3,0,17,FALSE,10/16/2020 0:00,3/31/2023 0:00,29,,,2,3
+dreamhomes/TroubleShooter,302842095,26,13,13,0,0,0,0,0,0,0,5118,FALSE,10/10/2020 0:00,4/5/2023 0:00,30,Jupyter Notebook,,0,0
+MichaelYin1994/aiops-competition-solutions,368728137,32,10,11,0,0,0,0,0,1,1,7852,FALSE,5/19/2021 0:00,4/19/2023 0:00,23,Python,,0,2
+NetManAIOps/MultiDimension-Localization,238931789,17,11,2,2,0,0,0,0,0,0,609672,FALSE,2/7/2020 0:00,4/19/2023 0:00,38,,,0,0
+lilihongjava/aiops,346893655,31,18,10,0,0,0,0,0,0,1,8970,FALSE,3/12/2021 0:00,4/19/2023 0:00,25,Python,,0,1
+jorge-cardoso/aiops_practice,210191754,5,1,22,0,0,0,0,0,0,0,145,FALSE,9/22/2019 0:00,1/6/2021 0:00,16,Python,,0,0
+nailo2c/spellpy,244678163,12,6,37,0,0,0,0,0,0,0,212,FALSE,3/3/2020 0:00,4/5/2023 0:00,37,Python,,0,0
+ixalodecte/AI-Log-Analyzer,345575577,11,5,57,3,0,0,0,0,0,0,116,FALSE,3/8/2021 0:00,3/9/2023 0:00,24,Python,,0,0
+sea-boat/Sea-AIOps,158311955,4,4,4,0,0,0,0,0,0,0,4,FALSE,11/20/2018 0:00,8/17/2021 0:00,33,Python,,0,0
+lihaolixuewei112612/bigdata-aiops,257568839,2,4,71,2,0,17,11,9,0,0,22923,FALSE,4/21/2020 0:00,6/15/2022 0:00,26,Java,,20,0
+meng2468/AIOps-Challenge,307319321,8,4,240,3,0,2,0,9,0,9,215384,FALSE,10/26/2020 0:00,3/1/2023 0:00,29,Jupyter Notebook,,9,9
+AI-HIT-OPs/AIOPs,149536536,2,2,42,0,0,0,0,0,0,0,56202,FALSE,9/20/2018 0:00,5/30/2019 0:00,8,Python,,0,0
+alebeck/AIOps,156155062,10,4,24,0,0,0,0,0,1,0,4970,FALSE,11/5/2018 0:00,1/7/2023 0:00,50,Python,,0,1
+gantry-platform/gantry-aiops,267741492,2,2,57,4,0,7,6,18,0,4,6509,FALSE,5/29/2020 0:00,9/15/2020 0:00,4,Jupyter Notebook,,24,4
+logpai/loghub,60705895,1079,505,87,4,0,0,0,5,6,14,6667,FALSE,6/8/2016 0:00,4/20/2023 0:00,82,,,5,20
+slrbl/Intrusion-and-anomaly-detection-with-machine-learning,83909958,125,69,164,2,0,0,0,1,0,0,10721,FALSE,3/4/2017 0:00,3/27/2023 0:00,72,Python,,1,0
+ait-aecid/logdata-anomaly-miner,251381311,37,18,"2,621",11,17,3,7,586,80,545,51152,FALSE,3/30/2020 0:00,3/29/2023 0:00,36,Python,,593,625
+ewilded/Intrusive,7320682,9,7,8,0,0,0,0,0,0,0,1299,FALSE,12/25/2012 0:00,10/24/2022 0:00,118,Perl,,0,0
+magneticstain/Inquisition,87564132,6,4,354,0,0,2,0,2,31,125,5042,FALSE,4/7/2017 0:00,12/13/2019 0:00,32,Python,,2,156
+davide97l/Log-Analysis-for-Anomaly-Detection,217661848,9,8,8,0,0,0,0,0,1,0,7820,FALSE,10/26/2019 0:00,2/26/2023 0:00,40,Python,,0,1
+LGrege/log-analysis,139257719,3,2,23,0,0,35,33,13,0,0,1574,FALSE,6/30/2018 0:00,5/29/2020 0:00,23,Java,,46,0
+kejiewei/logAnalysis,41281271,1,1,2,0,0,0,0,0,0,0,35,FALSE,8/24/2015 0:00,3/31/2021 0:00,67,Python,,0,0
+alexamanpreet/Network-Log-and-Traffic-Analysis,79239275,33,18,5,0,0,0,0,0,0,0,1028,FALSE,1/17/2017 0:00,4/19/2023 0:00,75,Jupyter Notebook,,0,0
+NCBI-Hackathons/Semantic-search-log-analysis-pipeline,146802240,12,3,131,6,0,0,0,0,0,0,28480,FALSE,8/30/2018 0:00,1/3/2022 0:00,41,JavaScript,,0,0
+uddhav-raj/Log-Analysis-Using-Machine-Learning-And-Hadoop,188394652,4,1,4,0,0,0,0,0,0,0,2909,FALSE,5/24/2019 0:00,2/25/2023 0:00,45,Jupyter Notebook,,0,0
+kaiwaehner/ksql-udf-deep-learning-mqtt-iot,142325304,268,107,51,2,0,0,0,1,0,5,887,FALSE,7/25/2018 0:00,4/13/2023 0:00,57,Java,,1,5
+GACWR/OpenUBA,210659697,289,172,179,4,0,17,13,58,15,6,21638,FALSE,9/24/2019 0:00,4/20/2023 0:00,43,Python,,71,21
+NVISOsecurity/ee-outliers,161357266,206,36,"1,690",10,0,13,3,437,29,131,4106,FALSE,12/11/2018 0:00,3/12/2023 0:00,51,Python,,440,160
+ymirsky/KitNET-py,110032835,197,59,11,0,0,0,0,0,1,5,36655,FALSE,11/8/2017 0:00,4/1/2023 0:00,65,Python,,0,6
+adobe/OSAS,356028221,150,24,60,5,0,2,0,20,0,2,951,FALSE,4/8/2021 0:00,4/8/2023 0:00,24,Python,,20,2
+intuit/foremast,161317975,130,37,445,12,0,15,10,74,42,41,100618,FALSE,12/11/2018 0:00,3/5/2023 0:00,51,Java,,84,83
+opendistro-for-elasticsearch/anomaly-detection,221989665,77,38,299,22,8,16,2,288,38,79,13144,TRUE,11/15/2019 0:00,2/10/2023 0:00,39,Java,,290,117
+eraclitux/machine-learning-netflow,32104435,73,31,11,0,0,0,0,0,0,0,3621,FALSE,3/12/2015 0:00,4/14/2023 0:00,97,Jupyter Notebook,,0,0
+alexfrancow/A-Detector,134266587,74,12,32,0,0,7,5,0,1,0,143317,FALSE,5/21/2018 0:00,3/1/2023 0:00,58,Python,,5,1
+anrputina/ods-anomalydetection,110269605,55,16,4,3,0,4,2,207,1,2,178,FALSE,11/10/2017 0:00,11/2/2022 0:00,60,Python,,209,3
+jonrau1/SyntheticSun,257634474,69,15,90,4,0,2,0,9,5,13,60789,FALSE,4/21/2020 0:00,4/5/2023 0:00,36,Python,,9,18
+BBVA/Tarkin,123162193,30,5,13,4,0,2,0,2,0,2,5091,FALSE,2/27/2018 0:00,3/28/2022 0:00,49,Jupyter Notebook,,2,2
+deflect-ca/baskerville,262622156,30,4,41,3,6,102,13,90,19,5,79049,FALSE,5/9/2020 0:00,4/10/2023 0:00,35,Python,,103,24
+bibs2091/Anomaly-detection-system,276733414,32,12,140,6,0,4,1,9,2,6,13587,FALSE,7/2/2020 0:00,3/22/2023 0:00,32,Java,,10,8
+Shauqi/Attack-and-Anomaly-Detection-in-IoT-Sensors-in-IoT-Sites-Using-Machine-Learning-Approaches,187774599,28,17,7,0,0,0,0,0,0,0,4401,FALSE,5/21/2019 0:00,2/25/2023 0:00,45,Jupyter Notebook,,0,0
+FedML-AI/FedIoT,349600526,40,14,212,4,0,2,0,3,2,2,38592,FALSE,3/20/2021 0:00,11/11/2022 0:00,20,,,3,4
+chicago-cdac/netml,284772553,33,10,46,5,0,2,1,14,4,3,2635,FALSE,8/3/2020 0:00,4/18/2023 0:00,32,Python,,15,7
+Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation,353888249,31,10,37,2,0,0,0,0,0,0,24047,FALSE,4/2/2021 0:00,4/12/2023 0:00,24,Jupyter Notebook,,0,0
+IBM-Cloud/iot-device-phone-simulator,114942949,10,21,42,4,0,0,0,2,0,3,252,FALSE,12/21/2017 0:00,12/9/2022 0:00,60,JavaScript,,2,3
+yliang725/Anomaly-Detection-IoT23,365767468,42,25,20,0,0,0,0,0,0,2,333,FALSE,5/9/2021 0:00,3/30/2023 0:00,22,Jupyter Notebook,,0,2
+falaybeg/SparkStreaming-Network-Anomaly-Detection,191148540,12,3,7,0,0,0,0,0,2,0,3120,FALSE,6/10/2019 0:00,4/2/2023 0:00,46,Jupyter Notebook,,0,2
+DawnsonLi/GFSAD,160664753,10,5,14,0,0,0,0,0,0,0,9136,FALSE,12/6/2018 0:00,4/24/2022 0:00,40,Python,,0,0
+wilfred-wulbou/Intrusion-Detection-System,297763146,12,2,29,0,0,0,0,0,0,0,38819,FALSE,9/22/2020 0:00,3/26/2023 0:00,30,Python,,0,0
+kushalchordiya216/Network-Anomaly-Detection,240101977,16,4,3,2,0,0,0,0,0,0,26343,FALSE,2/12/2020 0:00,3/6/2023 0:00,37,Python,,0,0
+ulookme/CyberSecurity-Data-Science,279934149,7,2,2,0,0,0,0,0,0,0,73605,FALSE,7/15/2020 0:00,3/25/2023 0:00,32,Jupyter Notebook,,0,0
+ThirdEyeData/Anomaly-Detections-Apache-Spark,156308650,7,3,5,2,0,0,0,0,0,0,7603,FALSE,11/6/2018 0:00,2/21/2023 0:00,51,HTML,,0,0
+mikemikhail/HOLDEV-2000,348012488,3,1,9,2,0,0,0,0,0,0,275999,FALSE,3/15/2021 0:00,11/2/2021 0:00,8,Python,,0,0
+chunchill/nfv-anomaly-detection-ml,131153954,3,2,6,0,0,0,0,0,0,0,2729,FALSE,4/26/2018 0:00,3/5/2023 0:00,59,Jupyter Notebook,,0,0
+hitanshu-mehta/Chokidar,286905241,4,3,50,2,0,6,0,1,2,1,10647,FALSE,8/12/2020 0:00,4/11/2023 0:00,32,C++,,1,3
+danielgil1/security_analytics,211205516,2,2,50,0,0,0,0,0,0,0,86865,FALSE,9/27/2019 0:00,10/4/2021 0:00,25,Jupyter Notebook,,0,0
+ECMWFCode4Earth/BlackSwan,297100092,4,2,7,0,0,3,0,0,0,0,31355,FALSE,9/20/2020 0:00,1/30/2022 0:00,16,Python,,0,0
+rmourya1/Machine-learning-for-anomaly-detection,301642501,1,2,13,0,0,0,0,0,0,0,17620,FALSE,10/6/2020 0:00,8/17/2022 0:00,22,Jupyter Notebook,,0,0
+kaiyoo/ML-Anomaly-Detection,307913726,10,3,25,0,0,0,0,0,0,1,2159,FALSE,10/28/2020 0:00,3/6/2023 0:00,29,Jupyter Notebook,,0,1
+jakobsalej/MAG-attack_anomaly_detection,244242784,1,1,144,2,0,14,7,20,0,0,399566,FALSE,3/1/2020 0:00,12/1/2021 0:00,21,Python,,27,0
+soukudom/ml-iot,152892608,1,1,24,0,0,0,0,0,0,0,7831,FALSE,10/13/2018 0:00,5/11/2019 0:00,7,Jupyter Notebook,,0,0
+samkeet/HackNEU2017,81743776,1,1,36,2,0,0,0,0,0,0,22121,FALSE,2/12/2017 0:00,3/24/2018 0:00,13,Jupyter Notebook,,0,0
+Vishi13/Hack-Eye-Network-Intrusion-Detection-System,298876904,1,1,13,0,0,0,0,0,0,0,4185,FALSE,9/26/2020 0:00,11/13/2020 0:00,2,Jupyter Notebook,,0,0
+atwong88/Network-Intrusion-Detection-ML,233011101,1,1,7,0,0,0,0,0,0,0,5837,FALSE,1/10/2020 0:00,1/10/2020 0:00,0,Jupyter Notebook,,0,0
+batuhaniskr/ml-intrusion-detection,270102503,1,0,9,0,0,0,0,0,0,0,2984,FALSE,6/6/2020 0:00,7/15/2021 0:00,13,Jupyter Notebook,,0,0
+Arche007/-NETWORKING-NETWORK-INTRUSION-DETECTION-,234273900,2,5,4,0,0,0,0,0,0,0,2941,FALSE,1/16/2020 0:00,2/17/2023 0:00,37,Jupyter Notebook,,0,0
+pixie-io/pixie,243394576,4491,341,"11,921",66,4,0,21,709,218,278,72235,FALSE,2/27/2020 0:00,4/20/2023 0:00,38,C++,,730,496
+nfrumkin/forecast-prometheus,144744292,116,47,12,0,0,0,0,0,1,0,12123,FALSE,8/14/2018 0:00,4/18/2023 0:00,56,Jupyter Notebook,,0,1
+geekidharsh/predicting-harddrive-failures-using-ml,169132015,6,13,30,0,0,0,0,0,1,0,606,FALSE,2/4/2019 0:00,5/3/2022 0:00,39,HTML,,0,1
+robsss/Iot-Cyber-Security-with-Machine-Learning,253133215,10,14,2,0,0,0,0,0,0,0,8899,FALSE,4/5/2020 0:00,4/8/2023 0:00,36,,,0,0
+HarshitDawar55/ClusteringGroupOfMachines,294932777,3,6,47,3,0,0,0,22,10,3,1159,FALSE,9/12/2020 0:00,8/17/2021 0:00,11,Jupyter Notebook,,22,13
+nimrodshn/cluster-learn,130806377,3,1,16,2,0,2,0,6,0,0,304,FALSE,4/24/2018 0:00,11/8/2018 0:00,7,Python,,6,0
+numaproj/numalogic-prometheus,554950113,8,4,87,5,21,4,1,100,14,8,589,FALSE,10/20/2022 0:00,4/5/2023 0:00,6,Python,,101,22
+galaxy-future/cudgx,444822106,68,15,69,6,2,11,3,7,1,2,19533,FALSE,1/5/2022 0:00,4/19/2023 0:00,15,Go,,10,3
+IBM/cp4waiops-connectors-java-template,483393786,3,10,38,4,0,8,4,2,2,0,784,FALSE,4/19/2022 0:00,2/10/2023 0:00,10,Java,,6,2
+SkyAPM/aiops-engine-for-skywalking,487076006,30,3,17,3,0,2,1,14,9,4,2155,FALSE,4/29/2022 0:00,3/31/2023 0:00,11,Jupyter Notebook,,15,13
+IBM/cloud-pak-deployer,498263779,78,43,"3,188",20,17,8,2,191,24,188,168758,FALSE,5/31/2022 0:00,4/20/2023 0:00,11,Jinja,,193,212
+zxuan000/SPGC_aiops_bjtu,460266267,9,4,27,0,0,0,0,0,0,1,21842,FALSE,2/17/2022 0:00,3/18/2023 0:00,13,Jupyter Notebook,,0,1
+numaproj/numalogic,513323345,139,11,80,11,23,6,2,105,37,14,6196,FALSE,7/12/2022 0:00,3/16/2023 0:00,8,Python,,107,51
+salesforce/logai,558512915,165,11,83,5,4,10,0,41,3,3,28647,FALSE,10/27/2022 0:00,4/19/2023 0:00,6,Python,,41,6
+dongdong9/log_parser,541858335,4,3,19,0,0,0,0,0,0,0,24873,FALSE,9/27/2022 0:00,4/8/2023 0:00,7,Python,,0,0
+xmigrate/xforecast,512142547,16,1,89,4,2,9,0,8,2,10,3939,FALSE,7/9/2022 0:00,3/5/2023 0:00,8,Python,,8,12
+dryice-devops/AIOps,449565175,1,2,3,2,0,0,0,0,0,0,490,FALSE,1/19/2022 0:00,9/4/2022 0:00,8,Jupyter Notebook,,0,0
+Q-Leo/RCA,330116058,1,1,6,0,0,0,0,0,0,0,1759,FALSE,1/16/2021 0:00,10/13/2022 0:00,21,,,0,0
+KunYinL/LogC,305320270,2,1,7,0,0,0,0,0,1,0,11395,FALSE,10/19/2020 0:00,3/24/2023 0:00,29,Python,,0,1
+miroslav-siklosi/Syslog-Messages-Analysis,250074104,5,1,45,0,0,0,0,0,0,0,19690,FALSE,3/25/2020 0:00,3/6/2023 0:00,36,Python,,0,0
+PragyaShukla2580/DeepLog,427863062,3,5,5,0,0,0,0,0,0,0,4028,FALSE,11/14/2021 0:00,3/20/2023 0:00,16,Python,,0,0
+Iretha/IoT23-network-traffic-anomalies-classification,350759985,20,6,63,0,0,2,0,5,2,1,22403,FALSE,3/23/2021 0:00,4/11/2023 0:00,25,Python,,5,3
+uttej2001/Anomaly-Logs-Detection,446356496,4,3,8,0,0,0,0,0,0,0,14822,FALSE,1/10/2022 0:00,12/23/2022 0:00,11,Jupyter Notebook,,0,0
+SABDULLAHJ/Anomaly-Detection-on-NSL-KDD-dataset,174629142,5,1,6,0,0,0,0,0,0,0,1599,FALSE,3/9/2019 0:00,3/3/2023 0:00,48,Jupyter Notebook,,0,0
+VasgoTheTotoroo/IDS_IoT,218564344,1,3,8,2,0,0,0,1,0,0,1592,FALSE,10/30/2019 0:00,3/6/2023 0:00,41,Jupyter Notebook,,1,0
+AkhilSinghRana/Network-Anomaly-Detection,291087910,5,2,22,0,0,0,0,0,1,0,657,FALSE,8/28/2020 0:00,4/19/2023 0:00,32,Jupyter Notebook,,0,1
+Reethika-hrudya/Anomaly-Detection,197334821,2,1,13,0,0,0,0,0,0,0,3332,FALSE,7/17/2019 0:00,11/15/2022 0:00,40,Jupyter Notebook,,0,0
+palantir-h2020/ti-mmml-ad,412533048,2,1,15,2,0,0,0,0,0,0,7069,FALSE,10/1/2021 0:00,1/21/2023 0:00,15,Python,,0,0
+danielbsimpson/anomaly_detection,348374632,1,1,25,0,0,0,0,0,0,0,39545,FALSE,3/16/2021 0:00,4/8/2022 0:00,13,Jupyter Notebook,,0,0
+huzaifa-57/Anomaly-Detection-using-Unsupervised-Machine-Learning,513873747,1,1,8,0,0,0,0,0,0,0,1793,FALSE,7/14/2022 0:00,8/30/2022 0:00,1,Python,,0,0
+harshilpatel1799/Iot-Cyber-Security-with-Machine-Learning-Research-Project,251704714,18,10,9,0,0,0,0,0,0,4,10803,FALSE,3/31/2020 0:00,3/15/2023 0:00,36,Jupyter Notebook,,0,4

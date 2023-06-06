@@ -1,0 +1,384 @@
+Repos,id,stars,forks,commits,contributors,releases,branches,open_pulls,closed_pulls,open_issues,closed_issues,size,archived,created_at,updated_at,age,language,,pull_requests,issues
+lazerwalker/machine-learning-rps,274473646,5,6,74,4,0,16,13,9,1,3,15447,FALSE,6/23/2020 0:00,10/19/2021 0:00,16,TypeScript,,22,4
+AP6YC/AdaptiveResonance.jl,275214858,16,3,560,4,26,13,0,78,5,39,35729,FALSE,6/26/2020 0:00,2/1/2023 0:00,32,Julia,,78,44
+roysaurabh1308/Smart-Home-Web-Version-1.0,288984231,1,1,6,0,0,0,0,0,0,0,143832,FALSE,8/20/2020 0:00,11/18/2020 0:00,3,CSS,,0,0
+hrlee113/gameplaylist,384016946,1,6,101,0,0,0,0,0,0,0,217,FALSE,7/8/2021 0:00,7/26/2021 0:00,0,Python,,0,0
+isarandi/metrabs,289547668,284,42,74,0,0,0,0,0,8,45,7173,FALSE,8/22/2020 0:00,3/14/2023 0:00,31,Python,,0,53
+guijinSON/NNHedge,434437167,20,5,76,0,0,0,0,0,0,1,107,FALSE,12/3/2021 0:00,3/3/2023 0:00,15,Python,,0,1
+PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition,195020985,786,434,290,7,0,7,8,22,13,24,26185,FALSE,7/3/2019 0:00,3/16/2023 0:00,44,Jupyter Notebook,,30,37
+pranavj1001/MachineLearningRecipes,111942372,2,2,92,0,0,0,0,0,0,0,539,FALSE,11/24/2017 0:00,3/10/2023 0:00,64,Jupyter Notebook,,0,0
+bhanuvikasr/Deep-RL-TORCS,92107154,21,13,16,0,0,0,0,0,0,0,15100,FALSE,5/22/2017 0:00,9/2/2022 0:00,64,Python,,0,0
+leoshine/Spherical_Regression,177441335,139,15,19,0,0,0,0,0,0,13,6464,FALSE,3/24/2019 0:00,2/6/2023 0:00,47,Python,,0,13
+DhruvSrikanth/2D-3D-Single-View-Reconstruction,341252807,4,1,131,3,0,8,0,0,0,0,36873,FALSE,2/22/2021 0:00,11/26/2022 0:00,21,Python,,0,0
+alvinbhou/HTC-DeepQ-Chest14,117455185,1,1,16,2,0,3,2,11,0,0,1276,FALSE,1/14/2018 0:00,2/24/2022 0:00,49,Python,,13,0
+xashru/bangla-text-classification,314825617,4,4,2,0,0,0,0,0,0,0,1077,FALSE,11/21/2020 0:00,1/9/2023 0:00,26,Python,,0,0
+KunyuHe/ML-Pipeline-on-Financial-Distress-Data,181192505,7,11,64,2,0,0,0,1,0,0,39252,FALSE,4/13/2019 0:00,10/13/2022 0:00,42,Python,,1,0
+joaoantoniocn/AM-MobileNet1D,236866762,27,10,8,0,0,4,3,6,5,0,155,FALSE,1/28/2020 0:00,3/25/2022 0:00,26,Python,,9,5
+ege-erdogan/unsplit,366381995,4,1,15,0,0,0,0,0,0,0,25,FALSE,5/11/2021 0:00,3/3/2023 0:00,22,Python,,0,0
+ongteckwu/Resume-Rater,188659915,67,41,1,0,0,0,0,0,2,1,10228,FALSE,5/26/2019 0:00,2/17/2023 0:00,45,Python,,0,3
+jessicayung/machine-learning-models,58272241,7,5,13,0,0,0,0,0,0,0,1440,FALSE,5/7/2016 0:00,2/4/2022 0:00,69,Jupyter Notebook,,0,0
+hsomaiya/machinelearning,273914244,3,2,31,0,0,0,0,1,0,0,2006,FALSE,6/21/2020 0:00,7/18/2022 0:00,25,Jupyter Notebook,,1,0
+Harsh-Jaiswal/FakeNewsDetection,179617252,4,3,6,0,0,0,0,0,1,1,39404,FALSE,4/5/2019 0:00,8/15/2022 0:00,40,Jupyter Notebook,,0,2
+nhejazi/medoutcon,179904082,10,3,231,3,1,3,1,15,1,25,992,FALSE,4/7/2019 0:00,12/5/2022 0:00,44,R,,16,26
+Jeremalloch/Semisupervised_Image_Classifier,110500632,18,6,26,0,0,0,0,0,0,0,2996,FALSE,11/13/2017 0:00,8/12/2022 0:00,57,Python,,0,0
+guillaume-chevalier/CSGames-2019-AI,177295955,2,1,37,2,0,3,0,0,0,0,21455,FALSE,3/23/2019 0:00,11/14/2022 0:00,44,Python,,0,0
+UsmanSimple/ML-Model-Deployment-with-Flask-and-AWS-EC2-Instance,456587414,1,1,15,0,0,0,0,0,0,0,10711,FALSE,2/7/2022 0:00,7/1/2022 0:00,5,Jupyter Notebook,,0,0
+Praful932/Kitabe,291985571,138,140,200,30,1,14,0,118,2,131,232668,FALSE,9/1/2020 0:00,3/16/2023 0:00,30,HTML,,118,133
+bermick/lipsync,78380844,1,1,20,0,0,0,0,0,0,0,5288,FALSE,1/9/2017 0:00,2/12/2018 0:00,13,Matlab,,0,0
+charlescao460/MapleStoryDetectionSampleGenerator,272241566,10,8,48,0,0,2,0,0,4,0,5461,FALSE,6/14/2020 0:00,9/28/2022 0:00,27,C#,,0,4
+C5T/Current,27625425,91,31,"4,718",10,0,7,0,858,9,66,16912,FALSE,12/6/2014 0:00,3/15/2023 0:00,99,C++,,858,75
+MurugeshMarvel/MLexp,62709647,14,7,147,0,0,3,1,0,0,0,48154,FALSE,7/6/2016 0:00,11/26/2022 0:00,76,Python,,1,0
+NCBI-Hackathons/Semantic-search-log-analysis-pipeline,146802240,12,3,131,6,0,0,0,0,0,0,28480,FALSE,8/30/2018 0:00,1/3/2022 0:00,41,JavaScript,,0,0
+penseeartificielle/fizzbuzz-deeplearning,125169159,1,1,1,0,0,0,0,0,0,0,1,FALSE,3/14/2018 0:00,3/7/2019 0:00,12,Python,,0,0
+MilaNLProc/bertlang,241833123,16,4,58,5,0,5,4,10,0,1,4133,FALSE,2/20/2020 0:00,12/13/2022 0:00,34,JavaScript,,14,1
+AI-Ghosts/Object-Detection-for-self-driving-car,125291713,4,1,9,2,0,0,0,0,0,0,18322,FALSE,3/15/2018 0:00,3/20/2019 0:00,12,Python,,0,0
+JifuZhao/Lending-Club-Loan-Analysis,140455975,6,13,22,0,0,0,0,0,0,0,48502,TRUE,7/10/2018 0:00,1/28/2023 0:00,54,Jupyter Notebook,,0,0
+CharlesLiuyx/Dota2_Data_Analyst,133070997,48,3,12,2,0,2,1,0,0,0,1242,FALSE,5/11/2018 0:00,3/7/2023 0:00,58,Jupyter Notebook,,1,0
+Akshitaag/Chall-Vihaan,109251898,4,2,5,2,0,0,0,1,0,0,305,FALSE,11/2/2017 0:00,10/5/2018 0:00,11,Matlab,,1,0
+Olow304/Data-Science-Machine-Learning,112039376,94,45,23,2,0,0,0,0,0,0,26168,FALSE,11/25/2017 0:00,2/18/2023 0:00,63,Jupyter Notebook,,0,0
+inferno-pytorch/speedrun,134756095,79,5,117,5,1,14,1,17,2,1,211,FALSE,5/24/2018 0:00,11/29/2022 0:00,54,Python,,18,3
+xinwangcindy/High_entropy_alloys_yield_stress_ml,252514093,2,1,2,0,0,0,0,0,0,0,38042,FALSE,4/2/2020 0:00,10/26/2022 0:00,30,Python,,0,0
+EddieTGH/HTHSHACKS2021,367711846,1,1,9,2,0,0,0,0,0,0,115,FALSE,5/15/2021 0:00,2/12/2023 0:00,21,Python,,0,0
+ablaom/MachineLearningInJulia2020,272340012,137,26,83,3,0,6,0,3,0,3,5219,FALSE,6/15/2020 0:00,1/9/2023 0:00,31,Jupyter Notebook,,3,3
+NXture/Sia,438143512,3,2,105,3,0,13,6,65,0,0,2797,FALSE,12/14/2021 0:00,3/25/2022 0:00,3,JavaScript,,71,0
+yueliu1999/DCRN,436458666,117,19,36,2,0,0,0,1,6,1,10753,FALSE,12/9/2021 0:00,3/13/2023 0:00,15,Python,,1,7
+mtxslv/StudyingMachineLearning,144077249,2,1,109,0,0,0,0,0,3,2,298656,FALSE,8/8/2018 0:00,10/26/2020 0:00,26,Jupyter Notebook,,0,5
+rsanchezgarc/CoPriNet,465008079,3,3,13,0,0,0,0,1,0,1,196989,FALSE,3/1/2022 0:00,2/7/2023 0:00,11,Python,,1,1
+rajat5ranjan/AV-AmExpert-2019-ML-Hackathon,213208620,29,27,7,0,0,0,0,0,0,0,325,FALSE,10/6/2019 0:00,7/28/2022 0:00,33,Jupyter Notebook,,0,0
+felipealencar/sdn-ddos-monitor,127048651,20,15,87,0,0,0,0,0,2,1,926,FALSE,3/27/2018 0:00,2/12/2023 0:00,59,Python,,0,3
+OzanAlpay/MachineLearning,54870420,1,1,6,0,0,0,0,0,0,0,17,FALSE,3/28/2016 0:00,11/17/2017 0:00,20,Python,,0,0
+nguyentruonglau/voicenet,321548872,3,2,45,0,1,0,0,0,0,0,5213,FALSE,12/15/2020 0:00,12/27/2021 0:00,12,Python,,0,0
+mhw32/meta-inference-public,221771974,12,1,8,0,0,0,0,0,0,0,519,FALSE,11/14/2019 0:00,10/17/2022 0:00,35,Python,,0,0
+Swaraj-72/Adversarial-Attacks-and-Defenses-on-Semantic-Segmentation-Networks,355331151,7,3,28,0,0,0,0,1,0,0,1034,FALSE,4/6/2021 0:00,2/25/2023 0:00,22,Python,,1,0
+AlphaVS-76/House_Price_Prediction,440471712,2,3,4,0,0,0,0,0,0,0,19,FALSE,12/21/2021 0:00,1/27/2022 0:00,1,Jupyter Notebook,,0,0
+manan904/Face-Recongnition-ML,99501432,6,1,6,0,0,0,0,0,0,0,409,FALSE,8/6/2017 0:00,8/15/2022 0:00,60,Python,,0,0
+JahnviTrivedi/Distracted-Driver-MultiAction-Classification,199864828,2,1,5,0,0,0,0,0,0,0,11141,FALSE,7/31/2019 0:00,6/10/2020 0:00,11,Jupyter Notebook,,0,0
+mihirchhiber/deep_learning_project,477677374,2,1,85,5,0,2,0,1,0,0,39979,FALSE,4/4/2022 0:00,4/24/2022 0:00,0,Jupyter Notebook,,1,0
+FernandoLpz/Tracking-ML-model-MLflow,297784771,4,6,6,0,0,0,0,0,0,0,261,FALSE,9/22/2020 0:00,9/9/2021 0:00,12,Python,,0,0
+polarbeargo/Microsoft-Azure-Machine-Learning-Scholarship-Showcase-Project,291600776,1,1,55,0,0,0,0,0,0,0,2509,FALSE,8/31/2020 0:00,6/27/2021 0:00,10,Jupyter Notebook,,0,0
+lukas-blecher/CleanPlateBlender,233959938,14,3,13,0,0,4,0,0,1,0,121,FALSE,1/14/2020 0:00,10/20/2022 0:00,33,Python,,0,1
+mitmedialab/PersonalizedMultitaskLearning,93782309,105,59,38,2,0,0,1,0,0,3,339,FALSE,6/8/2017 0:00,3/6/2023 0:00,69,Python,,1,3
+isabekov/GBPRBM_NumPy,102041753,1,1,2,0,0,0,0,0,0,0,292,FALSE,8/31/2017 0:00,5/12/2018 0:00,9,Python,,0,0
+mbari-org/pacific-sound-notebooks,415666911,8,2,57,3,0,0,0,1,1,0,37368,FALSE,10/10/2021 0:00,3/6/2023 0:00,17,,,1,1
+Switzerland-MQP/deep-learning-for-data-privacy-classification,152586452,4,4,8,3,0,0,0,0,0,0,40174,FALSE,10/11/2018 0:00,2/13/2020 0:00,16,Python,,0,0
+drcerenkaya/COVID-19-Detection,249728945,6,6,21,0,0,0,0,0,0,0,2773,FALSE,3/24/2020 0:00,6/20/2022 0:00,27,Jupyter Notebook,,0,0
+aaronstone1699/Depression-detection,320510448,9,2,9,0,0,0,0,0,0,0,7235,FALSE,12/11/2020 0:00,1/24/2023 0:00,25,Python,,0,0
+polwork/Learning-and-Transferring-Deep-Joint-Spectral-Spatial-Features-for-Hyperspectral-Classification,176678039,11,2,4,0,0,0,0,0,0,0,39,FALSE,3/20/2019 0:00,5/17/2022 0:00,38,MATLAB,,0,0
+SciML/DASKR.jl,75536052,11,15,155,16,18,5,1,40,3,9,431,FALSE,12/4/2016 0:00,3/10/2023 0:00,75,Julia,,41,12
+xxgege/StableNet,395540603,136,30,7,2,0,0,0,0,8,2,28,FALSE,8/13/2021 0:00,3/16/2023 0:00,19,Python,,0,10
+OctopusLian/Python-Machine-Learning-Cookbook,221356871,1,1,2,0,0,0,0,0,0,0,13951,FALSE,11/13/2019 0:00,2/26/2023 0:00,39,Python,,0,0
+xadrianzetx/lanefinder,222524943,7,4,39,0,0,0,0,2,0,1,18778,FALSE,11/18/2019 0:00,1/17/2023 0:00,38,Python,,2,1
+PacktPublishing/Hands-On-Deep-Learning-for-Images-with-TensorFlow,142971706,17,14,20,2,0,0,0,0,0,0,139,FALSE,7/31/2018 0:00,2/1/2023 0:00,55,Jupyter Notebook,,0,0
+lixuewei123/Deep-Learning,162955154,2,1,17,0,0,0,0,0,0,0,128,FALSE,12/24/2018 0:00,4/6/2022 0:00,40,Python,,0,0
+kartikjagdale/Last.fm-Song-Recommender,31491354,3,1,11,0,0,0,0,0,0,0,65,FALSE,3/1/2015 0:00,3/8/2023 0:00,96,Jupyter Notebook,,0,0
+mojoboss/pacman,40052467,3,2,65,0,0,3,0,0,1,0,900,FALSE,8/1/2015 0:00,8/18/2019 0:00,48,Python,,0,1
+HariRam1998/covisight-hackerearth,385118636,2,1,26,2,1,2,1,0,0,0,123756,FALSE,7/12/2021 0:00,12/18/2022 0:00,17,Python,,1,0
+niwayandm/Sentiment-Analysis-on-Distance-Learning-During-Covid-19-Using-K-Nearest-Neighbor,464812415,1,1,33,0,0,0,0,0,0,0,6350,FALSE,3/1/2022 0:00,6/22/2022 0:00,3,CSS,,0,0
+wpf535236337/pytorch-peleenet,139130813,38,14,2,0,0,0,0,0,4,0,2,FALSE,6/29/2018 0:00,11/20/2022 0:00,53,Python,,0,4
+jacktan1/Options-Project,233150022,9,2,124,2,0,2,1,1,0,0,239008,FALSE,1/10/2020 0:00,12/14/2022 0:00,35,Jupyter Notebook,,2,0
+alexagedah/ForecastingVolatility,542273651,1,1,8,0,0,0,0,0,0,0,170,FALSE,9/27/2022 0:00,1/4/2023 0:00,4,Python,,0,0
+dgovor/Housing-Price-Prediction-MATLAB,376416096,2,1,15,0,0,0,0,1,0,0,304,FALSE,6/13/2021 0:00,12/2/2022 0:00,18,MATLAB,,1,0
+kevinykuo/shocklapsedemo,152373116,1,1,14,2,0,0,0,2,0,0,696,FALSE,10/10/2018 0:00,5/13/2019 0:00,7,R,,2,0
+danielktaylor/PyStrategies,64703220,52,23,12,0,0,2,1,0,1,0,12583,FALSE,8/1/2016 0:00,3/4/2023 0:00,79,Jupyter Notebook,,1,1
+nzxtdata/Multivariate-Financial-Time-Series-Forecasting-with-Machine-Learning,359737285,4,1,40,0,0,0,0,1,0,0,14784,FALSE,4/20/2021 0:00,7/18/2022 0:00,15,Jupyter Notebook,,1,0
+laelasbuch/Sentiment-Analysis-about-Medan-City-Election,337465026,2,1,30,0,0,0,0,0,0,0,2519,FALSE,2/9/2021 0:00,12/30/2021 0:00,10,HTML,,0,0
+stantonious/motivate,386754605,2,1,51,3,0,2,0,2,2,0,8110,FALSE,7/16/2021 0:00,2/14/2022 0:00,7,C,,2,2
+devil-cyber/FashionWear,328317463,1,1,11,0,0,0,0,0,0,0,49146,FALSE,1/10/2021 0:00,1/10/2021 0:00,0,Python,,0,0
+haebichan/PopMusicMaker,143179927,154,33,25,0,0,0,0,0,2,0,29581,FALSE,8/1/2018 0:00,2/14/2023 0:00,54,Jupyter Notebook,,0,2
+appledora/amazon_product_recommendation,378177929,1,1,15,0,0,0,0,0,0,0,4271,FALSE,6/18/2021 0:00,3/8/2023 0:00,21,Jupyter Notebook,,0,0
+PavanSaiSheshetti/Face_Recognition,363116163,2,2,52,0,0,2,0,0,0,1,1386,FALSE,4/30/2021 0:00,11/8/2021 0:00,7,Python,,0,1
+davidho27941/ML4NO,350618012,1,1,52,4,0,4,0,0,0,0,1378995,FALSE,3/23/2021 0:00,4/19/2022 0:00,13,Jupyter Notebook,,0,0
+montyhall/mallory,92795282,2,1,17,0,0,0,0,0,0,0,64,FALSE,5/30/2017 0:00,5/7/2018 0:00,12,Lua,,0,0
+ahegel/genre-ML-classification,99501647,12,1,23,0,0,0,0,0,0,0,3641,FALSE,8/6/2017 0:00,3/13/2023 0:00,67,Python,,0,0
+zengbohan0217/Machine-Learning-work,311202337,1,2,59,0,0,0,0,0,0,0,31806,FALSE,11/9/2020 0:00,10/3/2021 0:00,11,Python,,0,0
+xamyzhao/conflux,97521486,1,1,17,0,0,0,0,0,0,0,26,FALSE,7/17/2017 0:00,6/25/2020 0:00,35,Python,,0,0
+Devashi-Choudhary/Cartoon-Character-Recognition,340350085,8,2,12,0,0,2,0,1,1,0,6196,FALSE,2/19/2021 0:00,5/27/2022 0:00,15,Jupyter Notebook,,1,1
+C4LEB-ai/URL-Classifier,499339973,1,1,6,2,0,2,0,0,0,0,36723,FALSE,6/3/2022 0:00,7/19/2022 0:00,1,Jupyter Notebook,,0,0
+darkmatter2222/COD-MW-2019-DNN,224898622,74,10,101,2,0,5,0,4,0,4,16203,FALSE,11/29/2019 0:00,2/21/2023 0:00,39,Python,,4,4
+datamonday/FR-AttSys,357199540,3,2,8,0,0,0,0,0,0,0,106169,FALSE,4/12/2021 0:00,3/23/2022 0:00,11,Python,,0,0
+VanBantam/one-env,171079203,1,1,5,0,0,0,0,0,0,0,9,FALSE,2/17/2019 0:00,5/11/2020 0:00,15,Dockerfile,,0,0
+wondonghyeon/protest-detection-violence-estimation,121340089,153,45,62,0,0,0,0,0,6,2,4903,FALSE,2/13/2018 0:00,3/14/2023 0:00,61,Jupyter Notebook,,0,8
+MarcoPalermo7070/QSVM_Classifier,223639995,1,2,9,0,0,0,0,0,0,0,5480,FALSE,11/23/2019 0:00,3/24/2022 0:00,28,Jupyter Notebook,,0,0
+AmandaZou/master-machine-learning-algorithms,236834470,28,30,13,0,0,0,0,0,0,0,1366,FALSE,1/28/2020 0:00,2/19/2023 0:00,37,Jupyter Notebook,,0,0
+katulu-io/fl-suite,497915331,19,1,86,5,0,7,2,40,1,0,3230,FALSE,5/30/2022 0:00,3/13/2023 0:00,10,Python,,42,1
+uddeshyatyagi/Machine-Learning-minors,294214253,2,3,39,3,0,2,1,6,1,1,1212,FALSE,9/9/2020 0:00,3/30/2021 0:00,6,Jupyter Notebook,,7,2
+Coldwave96/MaliciousUrls_Part2,257463587,14,9,8,0,1,0,0,0,1,2,11086,FALSE,4/21/2020 0:00,3/15/2023 0:00,35,Python,,0,3
+Xharlie/BtcDet,434487683,170,34,6,0,0,0,0,0,25,16,12364,FALSE,12/3/2021 0:00,3/10/2023 0:00,15,Python,,0,41
+annikabrundyn/driving-dirty,255676389,6,2,489,3,0,2,1,6,1,2,33461,FALSE,4/14/2020 0:00,12/11/2020 0:00,8,Python,,7,3
+mHernandes/ibovespa-forecast-using-machine-learning,237671838,6,1,6,0,0,0,0,0,0,0,152,FALSE,2/1/2020 0:00,12/27/2022 0:00,34,MATLAB,,0,0
+ClaudiuGeorgiu/Classification,36558890,8,7,9,0,0,0,0,0,0,0,541,FALSE,5/30/2015 0:00,1/28/2023 0:00,92,C#,,0,0
+vbugaevskii/leadersofdigital-hh,282600358,1,1,5,0,0,0,0,0,0,0,113,FALSE,7/26/2020 0:00,9/20/2020 0:00,2,Jupyter Notebook,,0,0
+simonMadec/VegAnn,530703998,3,2,40,2,0,0,0,1,1,0,55,FALSE,8/30/2022 0:00,3/9/2023 0:00,7,Python,,1,1
+GT-RIPL/MultiAgentPerception,272565603,35,11,11,2,0,0,0,2,4,2,1274,FALSE,6/15/2020 0:00,3/15/2023 0:00,33,Python,,2,6
+LeadingIndiaAI/Classifying-Different-Crop-Categories-Using-Hyperspectral,199781107,8,5,2,0,0,0,0,0,0,0,4,FALSE,7/31/2019 0:00,3/1/2023 0:00,44,Python,,0,0
+helenamin/Perth-City-Properties,393918906,2,1,121,2,0,0,0,1,0,0,10523,FALSE,8/8/2021 0:00,2/12/2022 0:00,6,Jupyter Notebook,,1,0
+apozas/private-tn,461921111,1,2,17,2,1,0,0,1,0,0,90,FALSE,2/21/2022 0:00,3/4/2022 0:00,1,Python,,1,0
+dll-ncai/deepeeg-a-deep-learning-based-platform-for-eeg-signal-analysis,273891448,2,1,70,2,0,0,0,0,0,0,12515,FALSE,6/21/2020 0:00,2/22/2023 0:00,32,Python,,0,0
+ikmb/amino_acid_encoding_deep_learning_applications,245128476,12,5,50,0,0,0,0,0,0,2,30138,FALSE,3/5/2020 0:00,12/20/2022 0:00,33,Python,,0,2
+Sebastian-Schuchmann/A.I.-Jumping-Cars-ML-Agents-Example,264515734,38,20,14,2,0,2,0,1,3,1,2116,FALSE,5/16/2020 0:00,1/1/2023 0:00,32,C#,,1,4
+rkhamilton/vqgan-clip-generator,416348615,102,29,246,0,16,2,0,4,2,11,111425,FALSE,10/12/2021 0:00,3/13/2023 0:00,17,Jupyter Notebook,,4,13
+stratospark/food-101-mobile,85806542,96,24,8,0,0,0,0,0,5,1,1527,FALSE,3/22/2017 0:00,11/24/2022 0:00,68,Jupyter Notebook,,0,6
+francomanca93/MachineLearning,258528661,1,1,28,0,0,0,0,0,0,0,62,FALSE,4/24/2020 0:00,7/12/2022 0:00,27,Python,,0,0
+XanaduAI/QHack2021,338161212,117,103,86,3,0,2,0,4,38,38,5162,TRUE,2/11/2021 0:00,3/2/2023 0:00,25,Python,,4,76
+Athena75/IBM-Customer-Value-Dashboarding,303678140,4,1,9,0,0,0,0,0,0,0,13236,FALSE,10/13/2020 0:00,7/25/2022 0:00,21,HTML,,0,0
+Viniciusmoda/multi-temporal-crop-classification,286252505,3,1,27,0,0,0,0,0,0,0,59,FALSE,8/9/2020 0:00,12/22/2022 0:00,28,,,0,0
+genbing99/MEAN_Spot-then-recognize,432376739,10,2,21,0,0,0,0,0,0,2,75702,FALSE,11/27/2021 0:00,3/9/2023 0:00,16,Python,,0,2
+naveen-chauhan/Loan-Prediction-Classification,144008514,13,32,6,0,0,0,1,0,0,0,126,FALSE,8/8/2018 0:00,3/4/2023 0:00,55,Jupyter Notebook,,1,0
+TimKreienkamp/ML-Competition,30968731,1,2,91,3,0,2,0,1,0,0,32131,FALSE,2/18/2015 0:00,4/7/2020 0:00,62,R,,1,0
+rlaneth/figment-fusion,535152409,7,1,14,0,0,0,0,0,1,0,57,FALSE,9/11/2022 0:00,11/23/2022 0:00,2,Jupyter Notebook,,0,1
+Rango-Zhang-Hang/FYP_Deep-Learning-and-WiFi-based-Gesture-Recognition,466140199,1,1,47,0,0,2,0,0,0,0,580,FALSE,3/4/2022 0:00,12/17/2022 0:00,9,Jupyter Notebook,,0,0
+piyush01123/Music-Generation-with-deep-learning,162235919,5,4,14,0,0,0,0,0,0,1,404417,FALSE,12/18/2018 0:00,8/30/2022 0:00,44,Python,,0,1
+vin136/Naive-Bees-Classifier,132237631,2,1,5,0,0,0,0,0,0,0,1941,FALSE,5/5/2018 0:00,5/24/2018 0:00,0,Jupyter Notebook,,0,0
+kshitizrimal/applied-deep-learning,165613322,1,55,3,0,0,0,0,0,0,0,2081,FALSE,1/14/2019 0:00,8/14/2022 0:00,43,Jupyter Notebook,,0,0
+ajhamdi/MVTN,394262699,67,8,40,2,0,2,0,2,2,11,329616,FALSE,8/9/2021 0:00,2/15/2023 0:00,18,Python,,2,13
+ysymyth/3D-SDN,154797992,262,40,6,3,0,0,0,1,0,6,14669,FALSE,10/26/2018 0:00,9/11/2022 0:00,47,Python,,1,6
+DataScientists-101/DataScience-and-DeepLearning-for-Business_,268351697,1,1,2,0,0,0,0,0,0,0,10381,FALSE,5/31/2020 0:00,11/30/2021 0:00,18,Jupyter Notebook,,0,0
+IbrahimSobh/kaggle-Flower-Classification-TPUs,266581342,13,3,27,0,0,0,0,0,0,0,2089,FALSE,5/24/2020 0:00,2/12/2023 0:00,33,Jupyter Notebook,,0,0
+activatedgeek/simplex-gp,277661025,6,1,158,3,0,3,0,1,0,1,1239,FALSE,7/6/2020 0:00,4/19/2022 0:00,21,Jupyter Notebook,,1,1
+siddharthnaik7/agriculture-anomaly-image-classification,275071797,1,1,5,0,0,0,0,0,0,0,1900,FALSE,6/26/2020 0:00,1/4/2021 0:00,7,Jupyter Notebook,,0,0
+nithishr/streamlit-ml-demo,318859803,12,4,21,2,0,5,4,13,0,1,701,FALSE,12/5/2020 0:00,1/6/2023 0:00,25,Python,,17,1
+JonahLeggett/ML_Algo_Options_Trading,383659297,1,5,32,3,0,0,0,0,0,0,10546,FALSE,7/7/2021 0:00,7/20/2021 0:00,0,Jupyter Notebook,,0,0
+thanhhau097/ml_project_template,247944257,83,36,39,2,0,19,18,8,0,1,1944,FALSE,3/17/2020 0:00,1/30/2023 0:00,34,Python,,26,1
+connect-midhunr/rossmann-sales-prediction,542652509,1,1,170,0,0,0,0,1,0,0,108094,FALSE,9/28/2022 0:00,1/31/2023 0:00,4,Jupyter Notebook,,1,0
+scikit-activeml/scikit-activeml,283546804,76,6,"1,319",9,13,42,1,113,42,129,46753,FALSE,7/29/2020 0:00,3/8/2023 0:00,32,Jupyter Notebook,,114,171
+luke-lorenzini/Machine-Learning-Cpp,140707363,4,1,85,0,0,0,0,0,1,2,95,FALSE,7/12/2018 0:00,2/27/2022 0:00,43,C++,,0,3
+Sophie-Germain/Thesis_DeepLearning,74291473,2,2,14,0,0,0,1,0,0,0,23869,FALSE,11/20/2016 0:00,4/18/2021 0:00,53,Python,,1,0
+embedeep/Free-TPU,163034230,192,54,40,2,0,0,0,1,2,1,78272,FALSE,12/25/2018 0:00,3/10/2023 0:00,51,Shell,,1,3
+microsoft/DeepSpeed-MII,473378688,539,54,100,14,3,29,10,77,36,36,4101,FALSE,3/23/2022 0:00,3/16/2023 0:00,12,Python,,87,72
+hollance/MobileNet-CoreML,93544971,699,105,9,0,0,0,0,0,5,6,16709,FALSE,6/6/2017 0:00,1/30/2023 0:00,67,Swift,,0,11
+wkentaro/chainer-bicyclegan,115642891,9,2,73,0,0,0,0,0,0,0,2974,FALSE,12/28/2017 0:00,6/29/2022 0:00,54,Python,,0,0
+RachanaJayaram/MalwarePrediction,213298943,6,4,65,3,0,0,0,0,0,0,1628,FALSE,10/7/2019 0:00,10/7/2022 0:00,36,Jupyter Notebook,,0,0
+sidneyarcidiacono/UnderstandingGCNs,400632658,10,5,9,0,0,0,0,0,0,0,35,FALSE,8/27/2021 0:00,11/11/2022 0:00,15,Jupyter Notebook,,0,0
+echushe/DeepFrame,116654869,14,8,63,2,0,0,0,0,0,0,2728,FALSE,1/8/2018 0:00,5/2/2021 0:00,40,C++,,0,0
+yihong-chen/neural-collaborative-filtering,125520219,371,131,23,2,0,0,0,2,5,12,14648,FALSE,3/16/2018 0:00,3/16/2023 0:00,60,Jupyter Notebook,,2,17
+DTSense/Webinar_DeepLearning_1,301964729,2,3,13,0,0,2,0,0,0,0,1019,FALSE,10/7/2020 0:00,12/18/2020 0:00,2,Jupyter Notebook,,0,0
+seyfig/DeepRLArmManipulation,140775780,2,1,12,0,0,0,0,0,0,0,18595,FALSE,7/13/2018 0:00,6/6/2022 0:00,47,C++,,0,0
+tharindurb/PRIME,135281003,3,4,32,2,0,0,0,0,0,0,70128,FALSE,5/29/2018 0:00,1/11/2021 0:00,32,Java,,0,0
+sguys99/Datascience-tips,281622343,1,1,28,0,0,0,0,0,0,0,1314,FALSE,7/22/2020 0:00,12/6/2020 0:00,5,Jupyter Notebook,,0,0
+cookeem/TensorFlow_learning_notes,103598590,395,141,57,0,0,0,0,0,2,0,7370,FALSE,9/15/2017 0:00,10/27/2022 0:00,61,Jupyter Notebook,,0,2
+aakashjha97/Handwritten-Digits-Classification,191177004,1,1,2,0,0,0,0,0,0,0,12995,FALSE,6/10/2019 0:00,6/13/2019 0:00,0,Jupyter Notebook,,0,0
+safikhanSoofiyani/Animal-Plant-Species-Detection,472322910,1,1,54,2,0,0,0,0,0,0,19375,FALSE,3/21/2022 0:00,8/22/2022 0:00,5,Jupyter Notebook,,0,0
+shreyashsmvdu1/vedic-symbol-recognizer-with-deep-learning,308838172,1,4,133,4,0,0,0,20,0,0,313074,FALSE,10/31/2020 0:00,7/31/2021 0:00,9,Jupyter Notebook,,20,0
+juandes/knnbot-messenger-bot,80658299,4,2,79,0,0,0,0,0,0,0,127,FALSE,2/1/2017 0:00,5/20/2021 0:00,51,Python,,0,0
+NimbleBoxAI/nbox,390696010,80,12,332,14,1,21,3,77,0,1,67332,FALSE,7/29/2021 0:00,1/31/2023 0:00,18,Python,,80,1
+qubvel/efficientnet,189477120,2008,460,66,9,8,2,8,33,55,58,835,FALSE,5/30/2019 0:00,3/13/2023 0:00,46,Python,,41,113
+algofairness/fairness-comparison,81018196,143,46,503,8,0,13,3,6,2,1,346993,FALSE,2/5/2017 0:00,2/21/2023 0:00,72,HTML,,9,3
+maxhumber/mummify,125737084,45,5,82,0,0,8,6,3,0,0,29630,FALSE,3/18/2018 0:00,2/21/2023 0:00,59,Python,,9,0
+Aviator10/Predictive-Model-for-choosing-correct-shipping-mode-Supply-chain-and-Logistic-Analytics,291623650,3,2,6,0,0,0,0,0,0,1,2305,FALSE,8/31/2020 0:00,2/3/2022 0:00,18,R,,0,1
+TheDoctorAI/AI-Trader,183347550,49,17,28,0,0,0,0,0,2,0,2019,FALSE,4/25/2019 0:00,3/7/2023 0:00,47,Jupyter Notebook,,0,2
+JifuZhao/DS-Take-Home,129176300,1559,820,40,0,0,0,0,0,1,0,8422,TRUE,4/12/2018 0:00,3/13/2023 0:00,59,Jupyter Notebook,,0,1
+GitTeaching/Django_Credit_Card_Fraud,295438728,1,3,15,0,0,0,0,0,0,0,733,FALSE,9/14/2020 0:00,6/12/2022 0:00,21,Jupyter Notebook,,0,0
+blue-yonder/vikos,67695889,10,10,187,7,1,3,0,23,6,7,428,FALSE,9/8/2016 0:00,5/10/2022 0:00,68,Rust,,23,13
+AndreFCruz/bias-detection,226709364,21,4,5,0,0,7,6,0,0,0,3969,FALSE,12/8/2019 0:00,12/9/2022 0:00,36,Jupyter Notebook,,6,0
+IBM-EPBL/IBM-Project-21212-1659775228,521892316,2,1,322,4,0,0,0,0,0,0,16113,FALSE,8/6/2022 0:00,11/24/2022 0:00,3,Jupyter Notebook,,0,0
+PoLun-Wang/DL_practice_logistic_regression,171846811,4,5,10,0,0,0,0,0,0,0,5650,FALSE,2/21/2019 0:00,4/22/2020 0:00,14,Jupyter Notebook,,0,0
+JRice15/physics-informed-autoencoders,273021869,10,3,177,0,0,2,0,0,0,0,80759,FALSE,6/17/2020 0:00,12/22/2022 0:00,30,Python,,0,0
+haoopeng/CNN-yelp-challenge-2016-sentiment-classification,52736571,107,52,47,0,0,0,0,0,3,0,15174,FALSE,2/28/2016 0:00,1/14/2023 0:00,83,Jupyter Notebook,,0,3
+ZainNasrullah/computer-vision-deep-learning-intro-papers,119459641,6,2,19,0,0,0,0,0,0,0,122596,FALSE,1/30/2018 0:00,11/13/2021 0:00,46,,,0,0
+guanfuchen/cifarclassify,114110018,31,8,22,0,0,2,1,0,2,0,417,FALSE,12/13/2017 0:00,3/14/2023 0:00,63,Python,,1,2
+MapsaBootCamp/MachineLearning1,383697449,2,2,58,2,0,2,0,5,0,0,17606,FALSE,7/7/2021 0:00,12/18/2021 0:00,5,Jupyter Notebook,,5,0
+wimlds-trojmiasto/detect-waste,314221459,119,37,133,8,0,9,1,53,2,10,87245,FALSE,11/19/2020 0:00,3/16/2023 0:00,28,Python,,54,12
+GenericAltimetryTools/AIBathy,545989847,7,1,4,0,0,0,0,0,2,0,21838,FALSE,10/5/2022 0:00,11/28/2022 0:00,1,Jupyter Notebook,,0,2
+Cloud-CV/VQA,90930010,69,23,48,2,0,9,9,7,0,3,4980,FALSE,5/11/2017 0:00,4/24/2022 0:00,59,Lua,,16,3
+surfertas/deep_learning,109797722,11,9,290,0,0,3,2,2,0,1,230285,FALSE,11/7/2017 0:00,9/29/2021 0:00,46,Jupyter Notebook,,4,1
+sharan-naribole/wlan_localization,85651271,23,18,27,0,0,0,0,0,0,1,54959,FALSE,3/21/2017 0:00,3/10/2023 0:00,72,Jupyter Notebook,,0,1
+intel-iot-devkit/brain-tumor-segmentations,217658155,9,6,6,4,0,4,1,0,0,0,116757,TRUE,10/26/2019 0:00,2/27/2023 0:00,40,Python,,1,0
+TeslasGhost/CUDA-PyTorch-ReleaseCandidate-Ubuntu16-04,86116522,2,1,81,0,0,0,0,0,0,0,1202,FALSE,3/24/2017 0:00,2/6/2018 0:00,11,Shell,,0,0
+Vijay-Gadepalli/FOTS,399614497,1,2,3,0,0,0,0,0,1,0,28356,FALSE,8/24/2021 0:00,3/24/2022 0:00,7,Jupyter Notebook,,0,1
+FangHaokun/MCMLP,365231224,1,1,3,0,0,0,0,0,0,0,122,FALSE,5/7/2021 0:00,10/5/2021 0:00,5,Python,,0,0
+san-skumar/Oral-Cancer-Detection,342477495,1,1,1,0,0,0,0,0,0,0,3,FALSE,2/26/2021 0:00,5/25/2021 0:00,3,Jupyter Notebook,,0,0
+idearibosome/srzoo,183538699,146,24,36,0,3,0,0,0,1,1,49,FALSE,4/26/2019 0:00,2/21/2023 0:00,46,Python,,0,2
+kurosouza/learnware,214894972,1,1,9,0,0,0,0,0,0,0,249,FALSE,10/13/2019 0:00,11/23/2019 0:00,1,Jupyter Notebook,,0,0
+rasto2211/Twitter-User-Gender-Classification,81133982,7,4,9,0,0,0,0,0,0,0,98,FALSE,2/6/2017 0:00,12/28/2021 0:00,58,Jupyter Notebook,,0,0
+sidgan/ETCI-2021-Competition-on-Flood-Detection,386096432,113,24,43,2,1,0,0,1,0,1,4658,FALSE,7/14/2021 0:00,3/3/2023 0:00,20,Jupyter Notebook,,1,1
+rajivnayanc/Deep_Learning_Projects,242597207,2,4,12,3,0,0,1,3,0,0,64466,FALSE,2/23/2020 0:00,10/31/2021 0:00,20,Jupyter Notebook,,4,0
+jfkcooper/LENS_ML_School_2021,322609814,6,4,104,9,0,0,0,0,0,0,45046,FALSE,12/18/2020 0:00,6/3/2021 0:00,6,HTML,,0,0
+LLNL/DJINN,141620451,36,11,36,0,0,2,1,3,1,2,108,FALSE,7/19/2018 0:00,2/14/2023 0:00,55,Python,,4,3
+PSLmodels/PCI-Outbreak,239786467,5,1,14,3,1,4,0,1,0,0,27601,FALSE,2/11/2020 0:00,7/14/2021 0:00,17,HTML,,1,0
+Govind155/Students-Mark-Predictor,315635337,4,10,51,0,0,0,0,0,0,0,118,FALSE,11/24/2020 0:00,12/6/2022 0:00,25,Jupyter Notebook,,0,0
+Vishwa4444/Gender-and-Age-Detection-Python,508727923,1,1,1,0,0,0,0,0,0,0,85136,FALSE,6/29/2022 0:00,3/4/2023 0:00,9,Python,,0,0
+NLeSC/mcfly,59207352,353,81,905,14,13,9,0,61,59,198,11404,FALSE,5/19/2016 0:00,3/12/2023 0:00,82,JavaScript,,61,257
+SurhanZahid/Fashion-MNIST-Classifier-Pytorch,166045881,2,5,7,0,0,0,0,0,1,0,8,FALSE,1/16/2019 0:00,1/16/2021 0:00,24,Python,,0,1
+mboukabous/Security-Intelligence-on-Exchanged-Multimedia-Messages-Based-on-Deep-Learning,370468218,6,4,104,3,1,2,0,2,0,0,4330,FALSE,5/24/2021 0:00,9/19/2022 0:00,16,Python,,2,0
+SEERNET/deepaffects-node,88503743,4,11,40,4,0,2,2,10,2,2,4558,FALSE,4/17/2017 0:00,11/5/2019 0:00,31,JavaScript,,12,4
+williamdee1/LMPred_AMP_Prediction,399740974,4,2,17,0,0,0,0,0,0,0,1708,FALSE,8/25/2021 0:00,10/24/2022 0:00,14,Jupyter Notebook,,0,0
+pietersap/dataminds-azureML-tensorflow-face,148658786,2,1,38,0,0,0,0,0,0,0,247394,TRUE,9/13/2018 0:00,1/28/2023 0:00,52,Python,,0,0
+corona10/FoodDataSet,75084499,26,2,15,0,0,0,0,0,0,0,11,FALSE,11/29/2016 0:00,2/28/2022 0:00,63,Python,,0,0
+PacktPublishing/Hands-On-Python-Deep-Learning,167944481,11,8,9,3,0,2,1,0,0,0,32473,FALSE,1/28/2019 0:00,4/4/2022 0:00,39,Jupyter Notebook,,1,0
+RISHIKESHAVAN/harvey-image-segmentation,442857622,1,1,23,0,0,0,0,0,0,0,1934993,FALSE,12/29/2021 0:00,4/24/2022 0:00,4,Jupyter Notebook,,0,0
+Altaaaaaaa/deep-learning-from-cosmic,511912643,1,1,82,8,0,0,0,0,0,0,40842,FALSE,7/8/2022 0:00,9/13/2022 0:00,2,Jupyter Notebook,,0,0
+lcskrishna/fruit-classification-pytorch,177026103,5,3,7,0,0,0,0,0,2,0,6417,FALSE,3/21/2019 0:00,1/21/2022 0:00,34,Python,,0,2
+ahaque/twitch-troll-detection,18750566,99,20,64,0,0,0,0,0,0,1,40872,FALSE,4/14/2014 0:00,2/9/2023 0:00,106,Python,,0,1
+johnPertoft/paper-implementations,71447830,1,1,10,0,0,2,0,0,0,0,203,FALSE,10/20/2016 0:00,6/5/2017 0:00,8,Python,,0,0
+ismailuddin/gradcam-tensorflow-2,286249315,25,1,3,0,1,0,0,0,2,0,1551,FALSE,8/9/2020 0:00,3/9/2023 0:00,31,Jupyter Notebook,,0,2
+jaaabir/phishing_detection,387577087,1,1,8,0,1,2,0,0,0,0,18454,FALSE,7/19/2021 0:00,11/25/2021 0:00,4,Jupyter Notebook,,0,0
+Sea-Snell/CALM-Dialogue,481328097,24,7,6,0,0,0,0,0,1,1,60,FALSE,4/13/2022 0:00,1/16/2023 0:00,9,Python,,0,2
+jstriaukas/midasml,269917206,33,19,118,0,0,0,0,1,0,8,2781,FALSE,6/6/2020 0:00,2/15/2023 0:00,32,R,,1,8
+antonior92/ecg-age-prediction,338388723,23,14,12,0,1,0,0,0,0,2,42,FALSE,2/12/2021 0:00,3/8/2023 0:00,25,Python,,0,2
+lxgithub24/machine_learning,64016167,3,2,19,2,0,0,0,1,0,0,118805,FALSE,7/23/2016 0:00,5/14/2021 0:00,58,Python,,1,0
+leadthefuture/ML-and-DataScience-preparation,429929678,34,6,62,4,0,0,1,13,1,1,54,FALSE,11/19/2021 0:00,2/28/2023 0:00,15,Python,,14,2
+cntejas/Exploratory-Analysis-Of-Geolocational-Data,514223267,1,1,3,0,0,0,0,0,0,0,5485,FALSE,7/15/2022 0:00,10/10/2022 0:00,3,Jupyter Notebook,,0,0
+falloutdurham/pytorchupandrunning,210200708,44,51,6,0,0,0,2,0,2,0,42,TRUE,9/22/2019 0:00,3/6/2023 0:00,42,Jupyter Notebook,,2,2
+minqi/hnatt,138830287,201,35,34,0,0,0,0,0,6,2,238,FALSE,6/27/2018 0:00,3/9/2023 0:00,57,Python,,0,8
+msalvaris/DaskKubernetes,188030802,8,1,9,2,0,3,2,1,0,0,42,FALSE,5/22/2019 0:00,2/15/2020 0:00,9,Python,,3,0
+KerenMeron/Advanced-Practical-Machine-Learning,112342301,1,2,17,0,0,0,0,0,0,0,37,FALSE,11/28/2017 0:00,8/22/2021 0:00,45,Python,,0,0
+wandb/edu,315747164,176,106,333,10,0,20,1,33,14,47,16352,FALSE,11/24/2020 0:00,3/14/2023 0:00,28,Jupyter Notebook,,34,61
+LucasDiogo96/Stock-Market-Prediction,460878467,2,2,14,0,0,0,0,0,0,0,1920,FALSE,2/18/2022 0:00,1/26/2023 0:00,11,Jupyter Notebook,,0,0
+gmortuza/machine-learning-scratch,229810896,5,3,86,0,0,0,0,0,0,0,32370,FALSE,12/23/2019 0:00,12/3/2022 0:00,36,Jupyter Notebook,,0,0
+ujjwala-apoorva/Machine-learning-model-to-predict-heart-failure-prediction,485274319,2,1,2,0,0,0,0,0,0,0,6,FALSE,4/25/2022 0:00,5/15/2022 0:00,1,Python,,0,0
+Haytam222/Real-Time-Face-Detection,283219598,9,4,8,0,0,0,0,0,0,0,342,FALSE,7/28/2020 0:00,4/21/2022 0:00,21,Jupyter Notebook,,0,0
+albertomontesg/data-mining-project,69646589,1,1,39,0,0,0,0,0,0,0,405,FALSE,9/30/2016 0:00,2/10/2023 0:00,77,Jupyter Notebook,,0,0
+NYU-MLDA/OpenABC,399573605,42,7,65,0,1,0,0,0,2,4,16935,FALSE,8/24/2021 0:00,3/14/2023 0:00,19,Jupyter Notebook,,0,6
+Arundhati1Sharma/ML-algo-projects,274948996,2,1,38,0,0,0,0,0,0,0,1455,FALSE,6/25/2020 0:00,9/7/2020 0:00,3,Jupyter Notebook,,0,0
+RicardoMoya/NLP_with_Python,191201614,9,13,32,2,0,3,2,18,1,0,159783,FALSE,6/10/2019 0:00,2/17/2023 0:00,44,Jupyter Notebook,,20,1
+enginBozkurt/Object_Detection_With_SSD,163888956,8,2,20,0,0,0,0,0,1,1,92,FALSE,1/2/2019 0:00,10/20/2022 0:00,45,Python,,0,2
+coreylammie/MemTorch,215175327,76,29,66,6,7,6,0,78,17,45,12423,FALSE,10/15/2019 0:00,3/15/2023 0:00,41,Python,,78,62
+WangSong960913/CraterDetection,223309353,5,1,14,0,0,5,4,16,2,0,851,FALSE,11/22/2019 0:00,3/14/2023 0:00,40,Python,,20,2
+sykwon/teddy-dream,514639098,5,1,90,0,0,0,0,0,0,0,108576,FALSE,7/16/2022 0:00,11/7/2022 0:00,4,Python,,0,0
+ShapeAI/Python-and-Machine-Learning,337088242,445,582,6,0,0,0,3,1,1,1,25,FALSE,2/8/2021 0:00,3/15/2023 0:00,25,Jupyter Notebook,,4,2
+JinheonBaek/MSP-MachineLearning,135050534,2,2,8,0,0,0,0,0,0,0,4045,FALSE,5/27/2018 0:00,7/3/2018 0:00,2,Jupyter Notebook,,0,0
+mrpep/Digital-Audio-Signal-Processing-and-Machine-Learning-Tutorials,145944400,8,6,16,0,0,0,0,0,0,0,37785,FALSE,8/24/2018 0:00,7/27/2020 0:00,23,Jupyter Notebook,,0,0
+chriskok/BotClassification-OSRS,247857027,11,3,141,0,0,2,1,0,0,0,35423,FALSE,3/17/2020 0:00,7/13/2022 0:00,28,Jupyter Notebook,,1,0
+ulissigroup/finetuna,297678177,20,6,"1,196",9,0,28,2,35,2,12,8392,FALSE,9/22/2020 0:00,1/23/2023 0:00,28,Python,,37,14
+PANBOHE/study_MachineLearning_Python3.x,150216778,4,11,10,0,0,0,1,0,0,0,50841,FALSE,9/25/2018 0:00,11/20/2019 0:00,14,Python,,1,0
+Dev0104/Amazon-alexa-reviews-sentiment-analysis,328860810,1,2,3,0,0,0,0,0,0,0,223,FALSE,1/12/2021 0:00,4/5/2022 0:00,15,Jupyter Notebook,,0,0
+ChongAih/Energy-Management-and-Economic-Evaluation-of-Grid-Conected-Microgrid-Operation,263798968,15,9,21,0,0,0,0,0,0,0,21772,FALSE,5/14/2020 0:00,2/8/2023 0:00,33,Jupyter Notebook,,0,0
+CampagneLaboratory/GenotypeTensors,118950090,7,1,548,2,0,2,0,0,0,0,14385,FALSE,1/25/2018 0:00,12/3/2022 0:00,59,Python,,0,0
+1475963/sentence-boundary-detection,138929033,4,4,38,0,0,2,0,12,2,7,72,FALSE,6/27/2018 0:00,9/5/2021 0:00,39,HTML,,12,9
+TariqAHassan/HiFiHybrid,511657302,11,3,31,0,0,2,0,1,0,0,3363,FALSE,7/7/2022 0:00,3/7/2023 0:00,8,Python,,1,0
+amusi/ECCV2022-Papers-with-Code,276777288,1386,240,181,0,0,0,1,0,7,23,296,FALSE,7/3/2020 0:00,3/16/2023 0:00,32,,,1,30
+greentfrapp/boundary-attack,129982850,84,20,17,0,0,0,0,0,3,7,20931,FALSE,4/18/2018 0:00,12/8/2022 0:00,56,Python,,0,10
+Sea-Snell/CALM-Dialogue,481328097,24,7,6,0,0,0,0,0,1,1,60,FALSE,4/13/2022 0:00,1/16/2023 0:00,9,Python,,0,2
+trandinh/mlops-practices,447425867,6,6,7,0,0,0,0,0,0,0,1378,FALSE,1/13/2022 0:00,2/23/2022 0:00,1,Jupyter Notebook,,0,0
+chbenitez92/Machine_Learning,228913181,2,2,6,0,0,0,0,0,0,0,18245,FALSE,12/18/2019 0:00,7/28/2020 0:00,7,Jupyter Notebook,,0,0
+elacsoft/TwitterSentimentAnalysis,123710554,1,1,4,0,0,0,0,0,0,0,391,FALSE,3/3/2018 0:00,7/12/2018 0:00,4,Jupyter Notebook,,0,0
+xgfs/verse,122595764,121,21,33,4,0,0,1,2,9,8,44,FALSE,2/23/2018 0:00,3/6/2023 0:00,61,C++,,3,17
+bethgelab/adversarial-vision-challenge,137122587,39,11,175,4,0,15,0,13,8,27,25056,FALSE,6/12/2018 0:00,8/25/2021 0:00,38,Python,,13,35
+Shaier/Movie-Summarizer,169757484,4,2,18,0,0,0,0,0,0,0,794,FALSE,2/8/2019 0:00,4/5/2022 0:00,38,Jupyter Notebook,,0,0
+gvinciguerra/PGM-index,216012144,674,79,182,6,0,2,2,6,4,30,14030,FALSE,10/18/2019 0:00,3/15/2023 0:00,41,C++,,8,34
+MrtnMndt/OpenVAE_ContinualLearning,189074327,56,11,17,2,0,0,0,2,1,4,1945,FALSE,5/28/2019 0:00,10/25/2022 0:00,41,Python,,2,5
+IBM/taxinomitis,138060572,109,118,"1,379",25,0,3,0,264,16,193,302872,FALSE,6/20/2018 0:00,2/20/2023 0:00,56,TypeScript,,264,209
+JannesKlaas/MLiFC,103525895,101,57,74,2,0,0,0,1,12,12,18686,FALSE,9/14/2017 0:00,11/2/2022 0:00,62,Jupyter Notebook,,1,24
+pujanm/SARKAR.AI,169865585,1,1,5,0,0,13,12,15,0,1,187139,FALSE,2/9/2019 0:00,3/4/2019 0:00,1,HTML,,27,1
+selfedu-rus/machine_learning,460355365,16,10,19,0,0,0,0,0,0,0,353,FALSE,2/17/2022 0:00,3/7/2023 0:00,13,Python,,0,0
+usptact/PrinterNightmare,109051961,1,2,8,0,0,0,0,0,0,0,48190,FALSE,10/31/2017 0:00,11/19/2018 0:00,13,C#,,0,0
+rayanabdulaziz/Deep_learning_Project,451425174,1,1,14,0,0,0,0,0,0,0,897,FALSE,1/24/2022 0:00,1/27/2022 0:00,0,Jupyter Notebook,,0,0
+aleju/face-generator,41510111,302,69,98,0,0,0,0,0,3,1,859,FALSE,8/27/2015 0:00,3/6/2023 0:00,91,Lua,,0,4
+lazywei/lineargo,39900277,113,8,34,2,0,0,0,4,1,0,314,FALSE,7/29/2015 0:00,11/19/2022 0:00,88,Go,,4,1
+tronglh241/flame,238358375,6,3,31,0,0,2,0,0,0,0,61,FALSE,2/5/2020 0:00,1/10/2023 0:00,35,Python,,0,0
+AchintyaX/NumpyStack,158652328,9,2,52,0,0,8,0,6,0,0,9306,FALSE,11/22/2018 0:00,2/6/2021 0:00,27,Jupyter Notebook,,6,0
+oliso/ECG-Wave-Classification,251668674,2,1,7,0,0,0,0,0,0,0,131,FALSE,3/31/2020 0:00,2/23/2021 0:00,11,Python,,0,0
+AarohiSingla/Chat-bot-using-Database,283817274,7,12,2,0,0,0,0,0,0,0,822,FALSE,7/30/2020 0:00,10/31/2022 0:00,27,Python,,0,0
+MR-HosseinzadehTaher/BenchmarkTransferLearning,394878220,30,12,25,0,0,0,0,0,4,1,1183,FALSE,8/11/2021 0:00,2/20/2023 0:00,18,Python,,0,5
+anshulpaigwar/GndNet,292220773,123,25,19,0,0,0,0,0,5,4,42145,FALSE,9/2/2020 0:00,3/16/2023 0:00,30,Python,,0,9
+meetpramodr/Introduction-to-Artificial-Neural-Network-and-Deep-Learning,201618799,2,9,10,0,0,0,0,0,0,0,330,FALSE,8/10/2019 0:00,8/26/2019 0:00,0,Jupyter Notebook,,0,0
+lightingghost/chemopt,115760035,98,40,4,0,0,0,1,0,3,7,65,FALSE,12/29/2017 0:00,2/7/2023 0:00,62,Python,,1,10
+ml-jku/oeaw_ai_summer_school,259853662,16,9,3,0,0,0,0,0,0,0,50962,FALSE,4/29/2020 0:00,7/21/2022 0:00,27,,,0,0
+DomenicoColandrea86/xkeyscore,94571415,1,1,21,0,0,4,1,0,0,0,4738,FALSE,6/16/2017 0:00,4/4/2020 0:00,34,JavaScript,,1,0
+a-doering/learning-inverse-kinematics,361199433,9,1,147,2,0,12,0,12,0,0,6166,FALSE,4/24/2021 0:00,2/21/2023 0:00,22,Python,,12,0
+Aditya-Rajgor/Personal-Projects,295087707,4,5,190,2,0,2,0,2,0,0,8309,FALSE,9/13/2020 0:00,10/1/2021 0:00,13,Jupyter Notebook,,2,0
+charlie2951/ML_micropython,500153893,2,3,15,0,0,2,0,1,0,0,42,FALSE,6/5/2022 0:00,10/9/2022 0:00,4,Jupyter Notebook,,1,0
+andersfagerli/CodeSLAM,447618764,9,1,15,0,0,0,0,0,0,0,654,FALSE,1/13/2022 0:00,3/13/2023 0:00,14,Python,,0,0
+PeterKoka1/Deep-Learning-Book,121585432,5,2,27,0,0,0,0,0,0,0,436,FALSE,2/15/2018 0:00,3/3/2020 0:00,25,Jupyter Notebook,,0,0
+stogaja/Python-ML-Projects,457767157,1,1,80,0,0,0,0,0,0,1,51001,FALSE,2/10/2022 0:00,6/3/2022 0:00,4,Jupyter Notebook,,0,1
+abhiguptame/Deep-Learning-Project-On-Image-classification,144221560,1,1,2,0,0,0,0,0,0,0,49,FALSE,8/10/2018 0:00,9/7/2019 0:00,13,Jupyter Notebook,,0,0
+amitkaps/recommendation,73704950,350,140,62,4,0,23,21,25,0,0,63150,FALSE,11/14/2016 0:00,3/16/2023 0:00,76,Jupyter Notebook,,46,0
+harschht/The-Seer,357986360,3,1,121,0,0,0,0,0,0,0,33190,FALSE,4/14/2021 0:00,9/9/2021 0:00,5,Python,,0,0
+SciML/StokesDiffEq.jl,71646189,3,7,39,5,1,0,1,5,0,1,27,TRUE,10/22/2016 0:00,1/27/2023 0:00,75,Julia,,6,1
+kubrakurt/machine_learning_resources,358771916,9,2,66,0,0,0,0,0,0,0,8500,FALSE,4/17/2021 0:00,5/26/2022 0:00,13,Jupyter Notebook,,0,0
+spatial-computing/strabo-text-recognition-deep-learning,121544072,7,9,44,4,1,0,0,1,2,0,60184,FALSE,2/14/2018 0:00,7/22/2022 0:00,53,C++,,1,2
+deepbands/deep-learning-datasets-maker,436812794,27,5,64,2,0,3,0,4,4,2,156,FALSE,12/10/2021 0:00,3/16/2023 0:00,15,Python,,4,6
+henighan/deeprl-intro,178611027,7,1,118,0,0,3,0,0,0,0,517,FALSE,3/30/2019 0:00,2/13/2020 0:00,11,Python,,0,0
+huangyueranbbc/ClassificationModelForAmazonReviewsDemo,101047840,2,3,2,0,0,0,0,0,0,0,11,FALSE,8/22/2017 0:00,3/11/2022 0:00,55,Java,,0,0
+amitdivekar30/Multiple_Linear_Regression_by_python,249676447,1,1,2,0,0,0,0,0,0,0,56,FALSE,3/24/2020 0:00,3/24/2020 0:00,0,Python,,0,0
+zwexcelwang/machine-learning-als,219427046,1,1,9,0,0,2,1,0,0,0,27158,FALSE,11/4/2019 0:00,5/29/2021 0:00,18,Python,,1,0
+jamesdhope/intent-based-chatbot-trained-using-tflearn,98576157,2,3,4,0,0,0,0,0,1,0,3584,FALSE,7/27/2017 0:00,12/3/2020 0:00,41,Jupyter Notebook,,0,1
+sergiocalde94/Arvato-Customer-Segmentation,254414474,2,1,8,0,0,4,3,1,0,0,4955,FALSE,4/9/2020 0:00,2/3/2021 0:00,10,Jupyter Notebook,,4,0
+RonLek/FastV2C-HandNet,228998897,8,2,31,0,0,0,0,0,4,8,46502,FALSE,12/19/2019 0:00,12/25/2020 0:00,12,Python,,0,12
+nla-group/fABBA,404623940,22,3,312,2,0,0,0,1,0,1,390361,FALSE,9/9/2021 0:00,1/20/2023 0:00,16,Python,,1,1
+mhrnz/Security-and-Privacy-in-Machine-Learning,324944285,2,1,28,0,0,2,0,0,0,0,8876,FALSE,12/28/2020 0:00,3/13/2023 0:00,27,Jupyter Notebook,,0,0
+csm-kr/faster_rcnn_pytorch,433372265,3,2,132,0,0,0,1,5,1,2,12435,FALSE,11/30/2021 0:00,11/14/2022 0:00,12,Python,,6,3
+andriyadi/StarWars-Chars-AIClassifier,228945130,6,3,5,0,0,0,0,0,0,0,38281,FALSE,12/19/2019 0:00,1/29/2022 0:00,25,Jupyter Notebook,,0,0
+amaan-ai/Restaurant-Reviews-Sentiment-Analysis,299349741,2,1,53,0,0,0,0,0,0,0,10357,FALSE,9/28/2020 0:00,2/8/2022 0:00,17,Python,,0,0
+Meigarom/Bus-Travel-Wise,162894319,3,3,16,2,0,5,4,4,0,0,92,FALSE,12/23/2018 0:00,2/8/2022 0:00,38,Python,,8,0
+ClaytonStudent/2019_DL,163727913,4,1,24,0,0,0,0,0,0,0,4066,FALSE,1/1/2019 0:00,3/3/2023 0:00,50,Jupyter Notebook,,0,0
+rakki-18/mortgage-classifier,242899055,2,1,33,3,0,0,0,0,0,0,15197,FALSE,2/25/2020 0:00,11/7/2021 0:00,21,Jupyter Notebook,,0,0
+foamliu/Look-Into-Person,134400122,82,21,115,2,1,0,1,4,2,3,34256,FALSE,5/22/2018 0:00,2/4/2023 0:00,57,Python,,5,5
+ALFA-group/lipizzaner-gan,132765661,32,11,74,6,0,37,7,24,5,1,88243,FALSE,5/9/2018 0:00,11/21/2022 0:00,54,Python,,31,6
+mcarpanelli/Churn-Prediction-Rideshare,140325656,1,2,40,2,0,0,0,0,0,0,1487,FALSE,7/9/2018 0:00,10/14/2018 0:00,3,Python,,0,0
+hugochan/Graph2Seq-for-KGQG,280999910,33,12,8,0,0,3,2,1,1,2,7597,FALSE,7/20/2020 0:00,3/15/2023 0:00,32,Python,,3,3
+marian42/shapegan,181573173,287,47,560,3,0,9,0,1,15,9,26930,FALSE,4/15/2019 0:00,3/4/2023 0:00,47,Python,,1,24
+hackobi/AI-Scalpel-Trading-Bot,206736341,185,34,40,2,0,4,3,2,0,0,5869,FALSE,9/6/2019 0:00,3/16/2023 0:00,42,Python,,5,0
+ashishpapanai/stockDL,342252783,21,12,118,2,14,0,0,20,1,0,49182,FALSE,2/25/2021 0:00,1/26/2023 0:00,23,Python,,20,1
+deyRupak/oculus,242292430,6,4,39,4,0,2,0,1,0,0,167895,FALSE,2/22/2020 0:00,3/6/2023 0:00,37,HTML,,1,0
+IDKiro/action-recognition,154293488,79,18,43,0,0,0,0,0,2,16,116,FALSE,10/23/2018 0:00,1/17/2023 0:00,51,Python,,0,18
+main76/snake-master,93047928,8,2,58,0,0,0,0,0,0,0,130,FALSE,6/1/2017 0:00,4/2/2021 0:00,46,Python,,0,0
+advimman/HiDT,247065521,629,88,30,5,0,0,1,3,7,6,182158,FALSE,3/13/2020 0:00,3/7/2023 0:00,36,Jupyter Notebook,,4,13
+hayntopdawg/FantasyFootballML,40691072,3,1,22,0,0,0,0,0,0,0,136,FALSE,8/14/2015 0:00,11/8/2022 0:00,87,Python,,0,0
+stardust-88/Variational_Recurrent_Neural_Network,413177715,1,1,15,0,0,0,0,0,0,0,34862,FALSE,10/3/2021 0:00,1/25/2022 0:00,3,Jupyter Notebook,,0,0
+inspirehep/magpie,46973796,666,190,196,4,4,5,2,30,47,119,95373,FALSE,11/27/2015 0:00,2/27/2023 0:00,87,Python,,32,166
+b3nk4n/imseq,60691316,11,8,83,0,0,0,0,0,1,0,1588,FALSE,6/8/2016 0:00,4/2/2022 0:00,70,Jupyter Notebook,,0,1
+pratikIT95/Deep-Learning-Based-Offline-Signature-Verification,137710215,1,2,4,2,0,0,0,0,0,0,1268,FALSE,6/18/2018 0:00,8/17/2021 0:00,38,Python,,0,0
+PacktPublishing/Mastering-Machine-Learning-with-R-Third-Edition,169069442,20,26,11,2,0,0,0,0,0,0,31751,FALSE,2/4/2019 0:00,12/23/2022 0:00,46,R,,0,0
+nasib-ullah/video-captioning-models-in-Pytorch,333657270,56,12,132,0,0,0,0,0,1,4,77426,FALSE,1/28/2021 0:00,3/10/2023 0:00,26,Python,,0,5
+javascript-machine-learning/svm-spam-classifier-javascript,114713781,8,4,3,0,0,0,0,0,0,0,234,FALSE,12/19/2017 0:00,9/25/2022 0:00,57,JavaScript,,0,0
+HIMIFDA/machine-learning-titanic,77749966,6,1,10,0,0,0,0,0,0,0,2630,FALSE,12/31/2016 0:00,11/18/2017 0:00,11,Python,,0,0
+belkakari/cellular-automata-pytorch,242075259,15,3,112,0,0,2,0,4,0,0,13777,FALSE,2/21/2020 0:00,12/2/2022 0:00,34,Python,,4,0
+khushhallchandra/pytorch-rl,116567762,15,2,20,2,0,0,0,0,0,0,1314,FALSE,1/7/2018 0:00,5/20/2022 0:00,52,Python,,0,0
+WinChua/CDRTR,159299471,8,2,67,0,0,0,0,0,0,0,7169,FALSE,11/27/2018 0:00,6/29/2022 0:00,43,Python,,0,0
+daisenryaku/pytorch-fcn,109457893,7,1,14,0,0,7,6,8,0,1,174,FALSE,11/4/2017 0:00,1/30/2023 0:00,62,Python,,14,1
+Soualihou237/Dental-Caries-Prediction-Using-Machine-Learning,441908270,5,1,9,0,0,0,0,0,0,0,2097,FALSE,12/26/2021 0:00,2/4/2023 0:00,14,Jupyter Notebook,,0,0
+jhashekhar/generative-models,175970544,1,2,14,0,0,0,0,0,0,0,909,FALSE,3/16/2019 0:00,1/9/2022 0:00,34,Jupyter Notebook,,0,0
+DemystifAI/explainableAI,166231682,14,7,21,2,0,2,0,1,0,0,8615,FALSE,1/17/2019 0:00,7/8/2022 0:00,42,Jupyter Notebook,,1,0
+KMdsy/DTCR,281934126,18,6,9,0,0,0,0,0,1,2,39,FALSE,7/23/2020 0:00,3/12/2023 0:00,32,Python,,0,3
+samwalrus/machine_learning,85395235,4,2,25,0,0,0,0,1,0,0,32,FALSE,3/18/2017 0:00,10/13/2022 0:00,67,Prolog,,1,0
+luciakasman/property-data-analysis,417542351,6,2,7,0,0,0,0,0,0,0,15466,FALSE,10/15/2021 0:00,11/25/2022 0:00,13,Jupyter Notebook,,0,0
+sharmaroshan/Coursera-Reviews-Analysis,183069909,6,2,11,0,0,0,0,0,0,0,21062,FALSE,4/23/2019 0:00,8/23/2022 0:00,40,Jupyter Notebook,,0,0
+msapurva/Failure-Prediction-Model,175677737,1,1,6,0,0,0,0,0,0,0,171,FALSE,3/14/2019 0:00,12/27/2021 0:00,33,Jupyter Notebook,,0,0
+BensonRen/idlm_Pytorch,223843938,1,4,271,2,0,0,0,0,0,1,33268,FALSE,11/25/2019 0:00,12/9/2020 0:00,13,Python,,0,1
+waybarrios/TensorFlow_CNN,45993243,14,9,3,0,0,0,0,0,0,0,0,FALSE,11/11/2015 0:00,6/30/2021 0:00,67,Python,,0,0
+cdluminate/robdml,422324810,17,1,694,0,0,0,0,0,0,0,16139,FALSE,10/28/2021 0:00,10/23/2022 0:00,12,Python,,0,0
+SoumyadeepB/DeepLearning,270832532,1,1,58,0,0,2,0,1,1,0,1688,FALSE,6/8/2020 0:00,5/12/2021 0:00,11,Jupyter Notebook,,1,1
+BrightHaozi/Machine-Learning-note,295423241,3,1,33,0,0,0,0,0,0,0,77603,FALSE,9/14/2020 0:00,11/30/2021 0:00,14,Jupyter Notebook,,0,0
+MiniEval/pytorch-gken,387313851,9,3,11,0,1,0,0,0,0,1,30,FALSE,7/19/2021 0:00,2/12/2023 0:00,19,Python,,0,1
+Koryto/Sendemo-AI,275156125,1,1,1,0,0,0,0,0,0,0,274,FALSE,6/26/2020 0:00,12/11/2020 0:00,6,Jupyter Notebook,,0,0
+kunalavghade/VBIRRS,557151533,4,1,29,2,0,3,0,4,0,0,138811,FALSE,10/25/2022 0:00,2/20/2023 0:00,4,Python,,4,0
+deenuy/cnn-obj-recognitions,496083548,1,1,3,0,0,0,0,0,0,0,45237,FALSE,5/25/2022 0:00,5/25/2022 0:00,0,Jupyter Notebook,,0,0
+zaidjamal-op/UBER-data-analysis-machine-learning-,366921747,1,1,1,0,0,0,0,0,0,0,264,FALSE,5/13/2021 0:00,7/5/2022 0:00,14,Jupyter Notebook,,0,0
+doc-ai/react-native-tensorio,168232853,18,5,52,2,3,4,1,11,0,2,68,FALSE,1/29/2019 0:00,10/19/2022 0:00,45,Objective-C++,,12,2
+kimim/clj-djl-examples,295594651,2,1,9,0,0,0,0,0,0,2,45,FALSE,9/15/2020 0:00,3/5/2023 0:00,30,Clojure,,0,2
+azhartalha/Traffic-Survalance-with-Computer-Vision-and-Deep-Learning,179923506,50,30,3,0,0,0,0,0,6,4,140232,FALSE,4/7/2019 0:00,2/16/2023 0:00,46,Python,,0,10
+bioinformatics-sannio/ncrna-deep,241634044,7,2,48,2,0,0,0,0,1,0,179510,FALSE,2/19/2020 0:00,12/6/2022 0:00,34,Jupyter Notebook,,0,1
+addisonklinke/pytorch-architectures,234775516,4,2,24,2,0,0,0,1,1,0,22,FALSE,1/18/2020 0:00,2/10/2021 0:00,13,Python,,1,1
+felipetovarhenao/gamut,380862881,4,1,279,0,0,3,0,0,0,0,5528,FALSE,6/28/2021 0:00,2/21/2023 0:00,20,Python,,0,0
+LQJecho/Channel-Estimation-and-Hybrid-Precoding-for-Millimeter-Wave-Systems-Based-on-Deep-Learning,359022390,8,5,8,0,0,0,0,0,3,0,33296,FALSE,4/18/2021 0:00,3/4/2023 0:00,23,MATLAB,,0,3
+jenhuluck/Deep-Learning-in-Human-Activity-Recognition-,279153952,6,1,11,0,0,2,0,1,0,0,19038,FALSE,7/12/2020 0:00,3/9/2023 0:00,32,Python,,1,0
+praneet1988/ELeFHAnt-Shiny,408917272,1,2,18,2,2,0,0,0,0,0,722,FALSE,9/21/2021 0:00,10/13/2021 0:00,1,R,,0,0
+ReubenMathew/DataOpsExperiments,158554346,1,1,11,0,0,0,0,0,0,0,44738,FALSE,11/21/2018 0:00,3/28/2020 0:00,16,HTML,,0,0
+chiehpower/Setup-deeplearning-tools,243426358,39,6,78,0,0,2,0,2,1,1,4927,FALSE,2/27/2020 0:00,3/9/2023 0:00,37,Python,,2,2
+andreagemelli/doc2graph,486600481,33,7,50,2,0,2,0,0,0,9,487998,FALSE,4/28/2022 0:00,2/27/2023 0:00,10,Python,,0,9
+Barabasi-Lab/AI-Bind,486370722,5,1,114,2,2,0,0,0,0,0,129693,FALSE,4/27/2022 0:00,2/2/2023 0:00,10,Jupyter Notebook,,0,0
+prottaymalakar-cloud/Data-Driven-Machine-Learning-to-Predict-Mechanical-Properties-of-Monolayer-TMDs,519190245,1,1,10,0,0,0,0,0,0,0,508,FALSE,7/29/2022 0:00,11/1/2022 0:00,4,Python,,0,0
+parasj/contracode,257438133,148,23,296,3,0,5,1,20,0,11,10633,FALSE,4/21/2020 0:00,3/2/2023 0:00,35,Jupyter Notebook,,21,11
+DrSnowbird/knime-vnc-docker,163745350,12,9,41,0,9,0,0,0,1,1,715,FALSE,1/1/2019 0:00,2/26/2022 0:00,37,Shell,,0,2
+yu4u/cutout-random-erasing,108452896,165,38,8,2,0,0,0,1,5,1,120,FALSE,10/26/2017 0:00,12/22/2022 0:00,62,Jupyter Notebook,,1,6
+liuhengli/Deep-Reinforcement-Learning,100156570,2,1,4,0,0,0,0,0,0,0,25,FALSE,8/13/2017 0:00,2/8/2018 0:00,6,Python,,0,0
+ZhiyuanDang/NNM,350986504,46,7,10,0,0,0,0,0,5,5,16401,FALSE,3/24/2021 0:00,11/18/2022 0:00,20,Python,,0,10
+PacktPublishing/Machine-Learning-End-to-Endguide-for-Java-developers,100240919,20,16,9,0,0,3,3,1,0,0,138793,FALSE,8/14/2017 0:00,10/26/2022 0:00,62,Java,,4,0
+Deamoner/privyfilter,269399705,7,1,30,0,0,3,0,2,0,5,74449,FALSE,6/4/2020 0:00,4/25/2022 0:00,22,Jupyter Notebook,,2,5
+p-koo/deepomics,76582631,21,7,140,4,0,2,2,3,0,0,57005,FALSE,12/15/2016 0:00,10/5/2022 0:00,70,Python,,5,0
+convolversandtransformers/homl2,289694434,2,2,17,2,0,0,0,7,1,0,797,FALSE,8/23/2020 0:00,10/6/2020 0:00,2,Jupyter Notebook,,7,1
+yanghua23/KaggleHousePrice_MLProject,124025712,2,4,7,2,0,0,0,0,0,0,5825,FALSE,3/6/2018 0:00,7/3/2021 0:00,40,Jupyter Notebook,,0,0
+alexhagiopol/multiscale-CNN-classifier,89289597,21,11,155,14,0,0,0,2,2,0,7498,FALSE,4/24/2017 0:00,11/11/2022 0:00,67,Jupyter Notebook,,2,2
+microsoft/human-pose-estimation.pytorch,143120668,2776,598,38,12,0,5,6,15,94,75,74,FALSE,8/1/2018 0:00,3/16/2023 0:00,55,Python,,21,169
+ArizaQ/MachineLearning,483916055,1,1,7,2,0,2,0,2,0,0,8840,FALSE,4/21/2022 0:00,4/21/2022 0:00,0,Python,,2,0
+tonypeng/tensorstyle,66128532,20,2,30,0,0,0,0,0,0,2,2752,FALSE,8/20/2016 0:00,4/23/2022 0:00,68,Python,,0,2
+dianalam/perceived-safety,53623964,1,1,32,0,0,0,0,0,0,0,12746,FALSE,3/10/2016 0:00,11/9/2018 0:00,32,Jupyter Notebook,,0,0
+harnoor96/DS-and-ML,291220185,2,1,11,2,0,0,0,0,0,0,249378,FALSE,8/29/2020 0:00,7/7/2021 0:00,11,Jupyter Notebook,,0,0
+bpbpublications/Practical-Machine-Learning-with-Spark,476799102,1,3,2,0,0,0,0,0,0,0,39,FALSE,4/1/2022 0:00,10/20/2022 0:00,6,Python,,0,0
+FedericaLucia/Drug-NER-Spacy-Keras,143472301,2,1,2,0,0,0,0,0,0,0,10,FALSE,8/3/2018 0:00,5/7/2019 0:00,9,Python,,0,0
+Keerthiraj-Nagaraj/ML4SCI-hackathon-project,317428147,1,1,13,0,0,0,0,0,0,0,7906,FALSE,12/1/2020 0:00,12/7/2020 0:00,0,Jupyter Notebook,,0,0
+yeyupiaoling/LearnPaddle,118303333,350,132,51,0,0,0,0,1,0,1,304316,FALSE,1/21/2018 0:00,3/8/2023 0:00,62,Python,,1,1
+tomelf/Paper-CICLing-2017-An-event-detection-approach-based-on-Twitter-hashtags,82970414,4,1,10,0,0,2,0,1,0,0,2135,FALSE,2/23/2017 0:00,3/1/2022 0:00,61,Python,,1,0
+ravinsharma12345/CS224d-deep-learning-nlp,31906637,1,2,6,0,0,0,0,0,0,0,119,FALSE,3/9/2015 0:00,4/17/2020 0:00,61,Python,,0,0
+YU1ut/MixMatch-pytorch,187955577,571,125,20,5,0,0,5,5,21,16,21,FALSE,5/22/2019 0:00,3/12/2023 0:00,46,Python,,10,37
